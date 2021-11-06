@@ -22,7 +22,7 @@ jobs:
     - name: Download Feed
       run: |-
         
-        curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o trinity-urc-worshiip-services.rss
+        curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o feeds/trinity-urc-worship-services.rss
     - name: Commit and push changes
       run: |-
         git diff
