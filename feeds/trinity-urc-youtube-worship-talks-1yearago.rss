@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ"/>
+ <id>yt:playlist:PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</id>
+ <yt:playlistId>PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>This week last year 📅🕙👀</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2020-06-07T21:14:08+00:00</published>
+ <entry>
+  <id>yt:video:ojoH_9uIfN8</id>
+  <yt:videoId>ojoH_9uIfN8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Morning Worship   1st November 2020 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ojoH_9uIfN8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-11-02T19:00:27+00:00</published>
+  <updated>2021-11-02T19:00:27+00:00</updated>
+  <media:group>
+   <media:title>Morning Worship   1st November 2020 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/ojoH_9uIfN8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/ojoH_9uIfN8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:x36oOQ2kF5c</id>
+  <yt:videoId>x36oOQ2kF5c</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Morning Worship   1st November 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=x36oOQ2kF5c"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-11-01T10:00:33+00:00</published>
+  <updated>2021-11-01T10:00:33+00:00</updated>
+  <media:group>
+   <media:title>Morning Worship   1st November 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/x36oOQ2kF5c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/x36oOQ2kF5c/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0FMel7V9RoU</id>
+  <yt:videoId>0FMel7V9RoU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Morning worship  Sunday, 27th December, 2020 Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0FMel7V9RoU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-28T09:00:00+00:00</published>
+  <updated>2021-10-28T09:00:00+00:00</updated>
+  <media:group>
+   <media:title>Morning worship  Sunday, 27th December, 2020 Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/0FMel7V9RoU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0FMel7V9RoU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-uxF11wOg4A</id>
+  <yt:videoId>-uxF11wOg4A</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 25th October 2020 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-uxF11wOg4A"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-26T09:00:00+00:00</published>
+  <updated>2021-10-26T09:00:00+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 25th October 2020 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/-uxF11wOg4A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-uxF11wOg4A/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6-K_owhfNOM</id>
+  <yt:videoId>6-K_owhfNOM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 25th October 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6-K_owhfNOM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-25T09:00:02+00:00</published>
+  <updated>2021-10-25T09:00:03+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 25th October 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/6-K_owhfNOM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6-K_owhfNOM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aF2H6cJcmuk</id>
+  <yt:videoId>aF2H6cJcmuk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 18th October 2020 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aF2H6cJcmuk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-19T09:00:00+00:00</published>
+  <updated>2021-10-19T09:00:00+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 18th October 2020 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/aF2H6cJcmuk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aF2H6cJcmuk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gPhoCGQJaNo</id>
+  <yt:videoId>gPhoCGQJaNo</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 18th October 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gPhoCGQJaNo"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-18T09:00:31+00:00</published>
+  <updated>2021-10-18T09:00:31+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 18th October 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/gPhoCGQJaNo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gPhoCGQJaNo/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:qSFqZykLaJ8</id>
+  <yt:videoId>qSFqZykLaJ8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 11th October 2020 - Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=qSFqZykLaJ8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-13T09:00:18+00:00</published>
+  <updated>2021-11-05T05:40:15+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 11th October 2020 - Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/qSFqZykLaJ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/qSFqZykLaJ8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UmZlalCC12s</id>
+  <yt:videoId>UmZlalCC12s</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 11th October 2020 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UmZlalCC12s"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-12T09:00:10+00:00</published>
+  <updated>2021-10-12T09:00:11+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 11th October 2020 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/UmZlalCC12s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UmZlalCC12s/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AwkoVQwRhOs</id>
+  <yt:videoId>AwkoVQwRhOs</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 11th October 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AwkoVQwRhOs"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-11T09:00:09+00:00</published>
+  <updated>2021-10-11T09:00:09+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 11th October 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/AwkoVQwRhOs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AwkoVQwRhOs/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7PiC4RZqPPg</id>
+  <yt:videoId>7PiC4RZqPPg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 4th October 2020 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7PiC4RZqPPg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-05T09:00:07+00:00</published>
+  <updated>2021-10-08T08:13:47+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 4th October 2020 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/7PiC4RZqPPg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7PiC4RZqPPg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GMLzg11KG48</id>
+  <yt:videoId>GMLzg11KG48</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 4th October 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GMLzg11KG48"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-10-04T09:00:11+00:00</published>
+  <updated>2021-10-08T08:13:14+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 4th October 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/GMLzg11KG48?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GMLzg11KG48/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Jr7XVi4CYfY</id>
+  <yt:videoId>Jr7XVi4CYfY</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday,  27th September 2020 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Jr7XVi4CYfY"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-09-27T09:00:13+00:00</published>
+  <updated>2021-09-27T09:00:14+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday,  27th September 2020 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/Jr7XVi4CYfY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Jr7XVi4CYfY/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Y0_wwwoZevM</id>
+  <yt:videoId>Y0_wwwoZevM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday,  27th September 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Y0_wwwoZevM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-09-26T13:00:28+00:00</published>
+  <updated>2021-09-27T06:31:58+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday,  27th September 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/Y0_wwwoZevM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Y0_wwwoZevM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:w8zkYw99hDA</id>
+  <yt:videoId>w8zkYw99hDA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday,  20th September 2020 - Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=w8zkYw99hDA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-09-21T09:00:33+00:00</published>
+  <updated>2021-09-21T09:00:33+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday,  20th September 2020 - Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/w8zkYw99hDA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/w8zkYw99hDA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
