@@ -1,7 +1,7 @@
 # This is a basic workflow to help you get started with Actions
 #curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" | jq . > output_file.json
 
-name: GetFeeds
+name: GetFeedsHourly5mins
 
 # Controls when the workflow will run
 on:
@@ -22,7 +22,7 @@ jobs:
     - name: Download Feed
       run: |-
         
-        curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o feeds/trinity-urc-youtube-worship-services.rss
+        #curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o feeds/trinity-urc-youtube-worship-services.rss
         curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ" -o feeds/trinity-urc-youtube-worship-talks-1yearago.rss
         
     - name: Commit and push changes
