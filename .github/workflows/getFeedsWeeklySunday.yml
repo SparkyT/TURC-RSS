@@ -21,7 +21,7 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        
+        git pull
         curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o feeds/trinity-urc-youtube-worship-services.rss
         #curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ" -o feeds/trinity-urc-youtube-worship-talks-1yearago.rss
         
