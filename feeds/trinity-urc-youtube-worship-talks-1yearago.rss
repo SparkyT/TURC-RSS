@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:UsisdfVmT00</id>
+  <yt:videoId>UsisdfVmT00</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship  Talks - Sunday, 6th December 2020   Advent 2 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UsisdfVmT00"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-07T20:00:20+00:00</published>
+  <updated>2021-12-07T20:00:21+00:00</updated>
+  <media:group>
+   <media:title>Worship  Talks - Sunday, 6th December 2020   Advent 2 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/UsisdfVmT00?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UsisdfVmT00/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:5KABTFSkoQA</id>
   <yt:videoId>5KABTFSkoQA</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -340,29 +363,6 @@ Wherever you are, whoever you are, whatever you have done, here is your God, pre
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="2"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:Jr7XVi4CYfY</id>
-  <yt:videoId>Jr7XVi4CYfY</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday,  27th September 2020 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=Jr7XVi4CYfY"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-09-27T09:00:13+00:00</published>
-  <updated>2021-09-27T09:00:14+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday,  27th September 2020 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/Jr7XVi4CYfY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/Jr7XVi4CYfY/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="1"/>
    </media:community>
   </media:group>
  </entry>
