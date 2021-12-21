@@ -11,6 +11,46 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:4ITT4B928WA</id>
+  <yt:videoId>4ITT4B928WA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Carols by Candlelight - 20th December 2020</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4ITT4B928WA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-20T10:00:03+00:00</published>
+  <updated>2021-12-20T10:00:03+00:00</updated>
+  <media:group>
+   <media:title>Carols by Candlelight - 20th December 2020</media:title>
+   <media:content url="https://www.youtube.com/v/4ITT4B928WA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4ITT4B928WA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Service Welcome, Carol Silent Night - Sung by TCE singers
+00:04:40 Lighting Advent Candles &amp; Prayer
+00:06:08 Reading Isaiah 9.2 John 14,5 John 8.12, Luke 1.78 - Church Members on Zoom
+00:07:00 Reading Luke 2 1-7 - Wendy
+00:08:13 Reading Luke 2 8-10 - Matthew
+00:09:48 Carol Hallelujah  - Lyrics Cloverton, Music from Leonard Cohen, Hallelujah
+00:14:06 Reflection Safety of the World - Rev Terry Hinks.
+00:15:56 Music The Trumpet shall sound from Messiah - Derek &amp; Dylan
+00:19:37 Reading Matthew 2 1-12 - Robert and Elaine 
+00:21:50 Carol Ding Dong Merrily on High - Love Wycombe choir. 
+00:24:08 Reading of Carol In the Bleak Midwinter - Ian and Lesley
+00:25:34 Reflection - What can we give him - Rev Terry Hinks
+00:27:34 Message from One Can Trust - Jo
+00:29:03 Message from Disraeli School Hardship Fund &amp; Reading &quot;A work in progress&quot; - Julia. 
+00:30:33 Christian Aid Christmas appeal film
+00:34:07 Prayers and the Lords Prayer Rev Terry Hinks
+00:37:51 Carol Hark the Herald Angels sing - Love Wycombe Choir
+00:43:03 - 44:33 - Blessing</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:Er0y6uKeXNU</id>
   <yt:videoId>Er0y6uKeXNU</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -345,29 +385,6 @@ Wherever you are, whoever you are, whatever you have done, here is your God, pre
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="2"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:qSFqZykLaJ8</id>
-  <yt:videoId>qSFqZykLaJ8</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday, 11th October 2020 - Part 3</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=qSFqZykLaJ8"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-10-13T09:00:18+00:00</published>
-  <updated>2021-11-05T05:40:15+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday, 11th October 2020 - Part 3</media:title>
-   <media:content url="https://www.youtube.com/v/qSFqZykLaJ8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/qSFqZykLaJ8/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="4"/>
    </media:community>
   </media:group>
  </entry>
