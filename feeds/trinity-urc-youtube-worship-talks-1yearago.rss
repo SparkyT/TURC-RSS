@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:kWNwXQDjpnw</id>
+  <yt:videoId>kWNwXQDjpnw</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Christmas Morning 2020 from Cores End &amp; Trinity URC's</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kWNwXQDjpnw"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-25T14:00:16+00:00</published>
+  <updated>2021-12-25T14:07:36+00:00</updated>
+  <media:group>
+   <media:title>Christmas Morning 2020 from Cores End &amp; Trinity URC's</media:title>
+   <media:content url="https://www.youtube.com/v/kWNwXQDjpnw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kWNwXQDjpnw/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:4ITT4B928WA</id>
   <yt:videoId>4ITT4B928WA</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -362,29 +385,6 @@ Wherever you are, whoever you are, whatever you have done, here is your God, pre
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="7"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:gPhoCGQJaNo</id>
-  <yt:videoId>gPhoCGQJaNo</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday, 18th October 2020 - Part 1</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=gPhoCGQJaNo"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-10-18T09:00:31+00:00</published>
-  <updated>2021-10-18T09:00:31+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday, 18th October 2020 - Part 1</media:title>
-   <media:content url="https://www.youtube.com/v/gPhoCGQJaNo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/gPhoCGQJaNo/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="2"/>
    </media:community>
   </media:group>
  </entry>
