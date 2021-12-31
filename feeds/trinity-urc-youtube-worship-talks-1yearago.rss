@@ -11,6 +11,34 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:EN3FME741dE</id>
+  <yt:videoId>EN3FME741dE</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Sunday, 27th December, 2020 Part 4 - RGS Carol Concert - Choir and Brass Ensemble</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EN3FME741dE"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-30T10:00:06+00:00</published>
+  <updated>2021-12-30T10:00:06+00:00</updated>
+  <media:group>
+   <media:title>Sunday, 27th December, 2020 Part 4 - RGS Carol Concert - Choir and Brass Ensemble</media:title>
+   <media:content url="https://www.youtube.com/v/EN3FME741dE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EN3FME741dE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Carols from the RGS Carol Concert - Choir and Brass Ensemble from All  Saints Church, recorded on 14th December 2020.  https://www.rgshw.com/news/?pid=3&amp;nid=1&amp;storyid=228 with  grateful thanks 
+    Once in Royal David’s City 
+    Hark! The Herald Angels Sing 
+    O Come, All Ye Faithful 
+    O Little Town of Bethlehem 
+    Unto us is Born a Son</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:HuYicWj2yMI</id>
   <yt:videoId>HuYicWj2yMI</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -362,29 +390,6 @@ Wherever you are, whoever you are, whatever you have done, here is your God, pre
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="4"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:0FMel7V9RoU</id>
-  <yt:videoId>0FMel7V9RoU</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Morning worship  Sunday, 27th December, 2020 Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=0FMel7V9RoU"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-10-28T09:00:00+00:00</published>
-  <updated>2021-12-28T10:00:00+00:00</updated>
-  <media:group>
-   <media:title>Morning worship  Sunday, 27th December, 2020 Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/0FMel7V9RoU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/0FMel7V9RoU/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="1"/>
    </media:community>
   </media:group>
  </entry>
