@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:dNSyUgDEesM</id>
+  <yt:videoId>dNSyUgDEesM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - 3rd January 2021 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dNSyUgDEesM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-04T19:00:16+00:00</published>
+  <updated>2022-01-04T19:00:16+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - 3rd January 2021 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/dNSyUgDEesM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dNSyUgDEesM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:ySWtR3mUH3M</id>
   <yt:videoId>ySWtR3mUH3M</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -367,29 +390,6 @@ Wherever you are, whoever you are, whatever you have done, here is your God, pre
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="5"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:ojoH_9uIfN8</id>
-  <yt:videoId>ojoH_9uIfN8</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Morning Worship   1st November 2020 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=ojoH_9uIfN8"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-11-02T19:00:27+00:00</published>
-  <updated>2021-11-02T19:00:27+00:00</updated>
-  <media:group>
-   <media:title>Morning Worship   1st November 2020 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/ojoH_9uIfN8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/ojoH_9uIfN8/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="2"/>
    </media:community>
   </media:group>
  </entry>
