@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:vWCfD8ddMSU</id>
+  <yt:videoId>vWCfD8ddMSU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks -  Sunday 17th January 2021 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vWCfD8ddMSU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-19T10:00:38+00:00</published>
+  <updated>2022-01-19T10:00:38+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks -  Sunday 17th January 2021 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/vWCfD8ddMSU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vWCfD8ddMSU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:yVBKl55oDQc</id>
   <yt:videoId>yVBKl55oDQc</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -367,29 +390,6 @@ Wherever you are, whoever you are, whatever you have done, here is your God, pre
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="4"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:IO-U0__w-R4</id>
-  <yt:videoId>IO-U0__w-R4</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Remembrance Sunday 8th November 2020 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=IO-U0__w-R4"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-11-09T19:00:06+00:00</published>
-  <updated>2022-01-13T17:51:53+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Remembrance Sunday 8th November 2020 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/IO-U0__w-R4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/IO-U0__w-R4/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="5"/>
    </media:community>
   </media:group>
  </entry>
