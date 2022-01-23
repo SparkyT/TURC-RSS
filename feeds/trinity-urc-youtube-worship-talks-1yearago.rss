@@ -1,11 +1,396 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ"/>
+ <id>yt:playlist:PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</id>
+ <yt:playlistId>PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>This week last year 📅🕙👀</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2020-06-07T21:14:08+00:00</published>
+ <entry>
+  <id>yt:video:vWCfD8ddMSU</id>
+  <yt:videoId>vWCfD8ddMSU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks -  Sunday 17th January 2021 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vWCfD8ddMSU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-19T10:00:38+00:00</published>
+  <updated>2022-01-19T10:00:38+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks -  Sunday 17th January 2021 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/vWCfD8ddMSU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vWCfD8ddMSU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yVBKl55oDQc</id>
+  <yt:videoId>yVBKl55oDQc</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 17th January 2021 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yVBKl55oDQc"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-17T10:00:34+00:00</published>
+  <updated>2022-01-18T19:27:03+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 17th January 2021 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/yVBKl55oDQc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yVBKl55oDQc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dNSyUgDEesM</id>
+  <yt:videoId>dNSyUgDEesM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - 3rd January 2021 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dNSyUgDEesM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-04T19:00:16+00:00</published>
+  <updated>2022-01-04T19:00:16+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - 3rd January 2021 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/dNSyUgDEesM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dNSyUgDEesM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ySWtR3mUH3M</id>
+  <yt:videoId>ySWtR3mUH3M</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - 3rd January 2021 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ySWtR3mUH3M"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-03T10:00:23+00:00</published>
+  <updated>2022-01-03T10:00:23+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - 3rd January 2021 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/ySWtR3mUH3M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ySWtR3mUH3M/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EN3FME741dE</id>
+  <yt:videoId>EN3FME741dE</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Sunday, 27th December, 2020 Part 4 - RGS Carol Concert - Choir and Brass Ensemble</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EN3FME741dE"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-30T10:00:06+00:00</published>
+  <updated>2021-12-30T10:00:06+00:00</updated>
+  <media:group>
+   <media:title>Sunday, 27th December, 2020 Part 4 - RGS Carol Concert - Choir and Brass Ensemble</media:title>
+   <media:content url="https://www.youtube.com/v/EN3FME741dE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EN3FME741dE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Carols from the RGS Carol Concert - Choir and Brass Ensemble from All  Saints Church, recorded on 14th December 2020.  https://www.rgshw.com/news/?pid=3&amp;nid=1&amp;storyid=228 with  grateful thanks 
+    Once in Royal David’s City 
+    Hark! The Herald Angels Sing 
+    O Come, All Ye Faithful 
+    O Little Town of Bethlehem 
+    Unto us is Born a Son</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HuYicWj2yMI</id>
+  <yt:videoId>HuYicWj2yMI</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Morning worship  Sunday, 27th December, 2020 Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HuYicWj2yMI"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-29T10:00:09+00:00</published>
+  <updated>2021-12-29T10:14:59+00:00</updated>
+  <media:group>
+   <media:title>Morning worship  Sunday, 27th December, 2020 Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/HuYicWj2yMI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HuYicWj2yMI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RO-KeKBj7_M</id>
+  <yt:videoId>RO-KeKBj7_M</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Morning worship   Sunday, 27th December, 2020 Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RO-KeKBj7_M"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-27T10:00:17+00:00</published>
+  <updated>2021-12-27T10:00:18+00:00</updated>
+  <media:group>
+   <media:title>Morning worship   Sunday, 27th December, 2020 Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/RO-KeKBj7_M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RO-KeKBj7_M/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kWNwXQDjpnw</id>
+  <yt:videoId>kWNwXQDjpnw</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Christmas Morning 2020 from Cores End &amp; Trinity URC's</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kWNwXQDjpnw"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-25T14:00:16+00:00</published>
+  <updated>2021-12-25T14:07:36+00:00</updated>
+  <media:group>
+   <media:title>Christmas Morning 2020 from Cores End &amp; Trinity URC's</media:title>
+   <media:content url="https://www.youtube.com/v/kWNwXQDjpnw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kWNwXQDjpnw/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="10"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4ITT4B928WA</id>
+  <yt:videoId>4ITT4B928WA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Carols by Candlelight - 20th December 2020</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4ITT4B928WA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-20T10:00:03+00:00</published>
+  <updated>2021-12-20T10:00:03+00:00</updated>
+  <media:group>
+   <media:title>Carols by Candlelight - 20th December 2020</media:title>
+   <media:content url="https://www.youtube.com/v/4ITT4B928WA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4ITT4B928WA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00 Service Welcome, Carol Silent Night - Sung by TCE singers
+00:04:40 Lighting Advent Candles &amp; Prayer
+00:06:08 Reading Isaiah 9.2 John 14,5 John 8.12, Luke 1.78 - Church Members on Zoom
+00:07:00 Reading Luke 2 1-7 - Wendy
+00:08:13 Reading Luke 2 8-10 - Matthew
+00:09:48 Carol Hallelujah  - Lyrics Cloverton, Music from Leonard Cohen, Hallelujah
+00:14:06 Reflection Safety of the World - Rev Terry Hinks.
+00:15:56 Music The Trumpet shall sound from Messiah - Derek &amp; Dylan
+00:19:37 Reading Matthew 2 1-12 - Robert and Elaine 
+00:21:50 Carol Ding Dong Merrily on High - Love Wycombe choir. 
+00:24:08 Reading of Carol In the Bleak Midwinter - Ian and Lesley
+00:25:34 Reflection - What can we give him - Rev Terry Hinks
+00:27:34 Message from One Can Trust - Jo
+00:29:03 Message from Disraeli School Hardship Fund &amp; Reading &quot;A work in progress&quot; - Julia. 
+00:30:33 Christian Aid Christmas appeal film
+00:34:07 Prayers and the Lords Prayer Rev Terry Hinks
+00:37:51 Carol Hark the Herald Angels sing - Love Wycombe Choir
+00:43:03 - 44:33 - Blessing</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="10"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Er0y6uKeXNU</id>
+  <yt:videoId>Er0y6uKeXNU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 13th December 2020  - Advent 3 Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Er0y6uKeXNU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-17T19:00:04+00:00</published>
+  <updated>2022-01-17T15:54:24+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 13th December 2020  - Advent 3 Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/Er0y6uKeXNU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Er0y6uKeXNU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:pVFXjOxbHIg</id>
+  <yt:videoId>pVFXjOxbHIg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Morning Worship - Sunday, 13th December 2020 - Advent 3 Part 3 - Christmas Carols</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=pVFXjOxbHIg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-16T13:00:22+00:00</published>
+  <updated>2021-12-16T13:00:22+00:00</updated>
+  <media:group>
+   <media:title>Morning Worship - Sunday, 13th December 2020 - Advent 3 Part 3 - Christmas Carols</media:title>
+   <media:content url="https://www.youtube.com/v/pVFXjOxbHIg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/pVFXjOxbHIg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00:00 - Joy to the World
+00:02:28 - O Come All Ye Faithful
+00:07:29 - Once In Royal David's City
+01:01:52 - Angels from the Realms of Glory
+01:05:41 - In the Bleak Midwinter
+01:10:21 - Junior Church - Come and Join the Celebration</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EF8HU0DA9xA</id>
+  <yt:videoId>EF8HU0DA9xA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 13th December 2020 - Advent 3 Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EF8HU0DA9xA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-15T10:00:11+00:00</published>
+  <updated>2021-12-17T23:51:10+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 13th December 2020 - Advent 3 Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/EF8HU0DA9xA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EF8HU0DA9xA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vZgKRxFEtCA</id>
+  <yt:videoId>vZgKRxFEtCA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 13th December 2020 - Advent 3 Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vZgKRxFEtCA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-13T10:00:23+00:00</published>
+  <updated>2021-12-13T10:01:34+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 13th December 2020 - Advent 3 Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/vZgKRxFEtCA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vZgKRxFEtCA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UsisdfVmT00</id>
+  <yt:videoId>UsisdfVmT00</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship  Talks - Sunday, 6th December 2020   Advent 2 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UsisdfVmT00"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-07T20:00:20+00:00</published>
+  <updated>2021-12-18T00:40:44+00:00</updated>
+  <media:group>
+   <media:title>Worship  Talks - Sunday, 6th December 2020   Advent 2 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/UsisdfVmT00?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UsisdfVmT00/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5KABTFSkoQA</id>
+  <yt:videoId>5KABTFSkoQA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship  Talks - Sunday, 6th December 2020 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5KABTFSkoQA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2021-12-06T10:00:05+00:00</published>
+  <updated>2022-01-13T20:22:12+00:00</updated>
+  <media:group>
+   <media:title>Worship  Talks - Sunday, 6th December 2020 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/5KABTFSkoQA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5KABTFSkoQA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Reading Mark 1. 1 – 8 NIVUK 
+
+Short talk: ‘prepare for what?’
+A key word in advent is &quot;Prepare&quot;
+What are we preparing for?
+Buy a huge turkey or a small chicken
+Preparing is important but what happens if we have no clue what to prepare for
+What can businesses do to prepare for what how pandemic will evolve
+The Government says &quot;be ready&quot; with regards to Brexit, but be ready for what
+&quot;Make sure you are ready&quot; could be a great slogan for advent
+Today's readings ask us to prepare for the Lord
+Wherever you are, whoever you are, whatever you have done, here is your God, prepare to receive him</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
