@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:sTwssK8FcVg</id>
+  <yt:videoId>sTwssK8FcVg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 31st January 2021 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sTwssK8FcVg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-01-31T09:00:32+00:00</published>
+  <updated>2022-01-31T09:00:33+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 31st January 2021 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/sTwssK8FcVg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sTwssK8FcVg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:V5M7jpQCdzk</id>
   <yt:videoId>V5M7jpQCdzk</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -356,29 +379,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="3"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:vZgKRxFEtCA</id>
-  <yt:videoId>vZgKRxFEtCA</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks, Sunday, 13th December 2020 - Advent 3 Part 1</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=vZgKRxFEtCA"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-12-13T10:00:23+00:00</published>
-  <updated>2021-12-13T10:01:34+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks, Sunday, 13th December 2020 - Advent 3 Part 1</media:title>
-   <media:content url="https://www.youtube.com/v/vZgKRxFEtCA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/vZgKRxFEtCA/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="1"/>
    </media:community>
   </media:group>
  </entry>
