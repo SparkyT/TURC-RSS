@@ -21,7 +21,7 @@
    <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
   </author>
   <published>2022-02-20T11:50:49+00:00</published>
-  <updated>2022-02-20T12:48:16+00:00</updated>
+  <updated>2022-02-24T23:25:08+00:00</updated>
   <media:group>
    <media:title>Morning Worship, Sunday, 20th February 2022 - Compassion Sunday</media:title>
    <media:content url="https://www.youtube.com/v/6PBxJNSF0Lg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -77,10 +77,12 @@ HYMN R&amp;S 531  Lord of all hopefulness
 Blessing
 
 
-Organ voluntary and notices</media:description>
+Organ voluntary and notices
+
+#StormEunice, #Compassion, #CompassionSunday</media:description>
    <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="19"/>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="47"/>
    </media:community>
   </media:group>
  </entry>
@@ -160,7 +162,7 @@ However, God is a just God.
 Thank you to our Organist today Charles Brewster</media:description>
    <media:community>
     <media:starRating count="1" average="5.00" min="1" max="5"/>
-    <media:statistics views="18"/>
+    <media:statistics views="19"/>
    </media:community>
   </media:group>
  </entry>
@@ -334,7 +336,7 @@ Where does God want us to go, what does He want us to say and to whom?
 01:08:25 - 01:10:57 - Music and notices</media:description>
    <media:community>
     <media:starRating count="1" average="5.00" min="1" max="5"/>
-    <media:statistics views="30"/>
+    <media:statistics views="34"/>
    </media:community>
   </media:group>
  </entry>
@@ -1143,7 +1145,7 @@ Closing Prayers
 01:12:40 - 01:15:30 - Organ voluntary</media:description>
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="27"/>
+    <media:statistics views="28"/>
    </media:community>
   </media:group>
  </entry>
