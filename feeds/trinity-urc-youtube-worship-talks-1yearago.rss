@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:Sme7Vx1B2-8</id>
+  <yt:videoId>Sme7Vx1B2-8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - 7th March 2021 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Sme7Vx1B2-8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-03-07T10:00:13+00:00</published>
+  <updated>2022-03-07T10:00:13+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - 7th March 2021 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/Sme7Vx1B2-8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Sme7Vx1B2-8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:yamBwy5URss</id>
   <yt:videoId>yamBwy5URss</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -329,34 +352,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="4"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:EN3FME741dE</id>
-  <yt:videoId>EN3FME741dE</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Sunday, 27th December, 2020 Part 4 - RGS Carol Concert - Choir and Brass Ensemble</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=EN3FME741dE"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2021-12-30T10:00:06+00:00</published>
-  <updated>2021-12-30T10:00:06+00:00</updated>
-  <media:group>
-   <media:title>Sunday, 27th December, 2020 Part 4 - RGS Carol Concert - Choir and Brass Ensemble</media:title>
-   <media:content url="https://www.youtube.com/v/EN3FME741dE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/EN3FME741dE/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Carols from the RGS Carol Concert - Choir and Brass Ensemble from All  Saints Church, recorded on 14th December 2020.  https://www.rgshw.com/news/?pid=3&amp;nid=1&amp;storyid=228 with  grateful thanks 
-    Once in Royal David’s City 
-    Hark! The Herald Angels Sing 
-    O Come, All Ye Faithful 
-    O Little Town of Bethlehem 
-    Unto us is Born a Son</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="12"/>
    </media:community>
   </media:group>
  </entry>
