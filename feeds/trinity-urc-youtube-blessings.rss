@@ -33,4 +33,27 @@
    </media:community>
   </media:group>
  </entry>
+ <entry>
+  <id>yt:video:Cq6rp-K8Nco</id>
+  <yt:videoId>Cq6rp-K8Nco</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 20th July 2020</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Cq6rp-K8Nco"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-10-19T08:04:24+00:00</published>
+  <updated>2022-10-19T08:14:49+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 20th July 2020</media:title>
+   <media:content url="https://www.youtube.com/v/Cq6rp-K8Nco?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Cq6rp-K8Nco/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#Blessings #Church #God #YoutubeShorts #Shorts</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
 </feed>
