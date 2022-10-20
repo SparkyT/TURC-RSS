@@ -79,4 +79,27 @@
    </media:community>
   </media:group>
  </entry>
+ <entry>
+  <id>yt:video:fkqJlWJ7vS0</id>
+  <yt:videoId>fkqJlWJ7vS0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 4th July 2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fkqJlWJ7vS0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-10-20T09:00:31+00:00</published>
+  <updated>2022-10-20T09:03:21+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 4th July 2021</media:title>
+   <media:content url="https://www.youtube.com/v/fkqJlWJ7vS0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fkqJlWJ7vS0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#Blessings #Church #God #YoutubeShorts #Shorts #Garden #Rose #Relax #mindfulness</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
 </feed>
