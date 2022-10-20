@@ -37,16 +37,16 @@
   <id>yt:video:Cq6rp-K8Nco</id>
   <yt:videoId>Cq6rp-K8Nco</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Blessings - 20th July 2020</title>
+  <title>Blessings - 19th July 2020</title>
   <link rel="alternate" href="https://www.youtube.com/watch?v=Cq6rp-K8Nco"/>
   <author>
    <name>Trinity High Wycombe and Cores End URCs</name>
    <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
   </author>
   <published>2022-10-19T08:04:24+00:00</published>
-  <updated>2022-10-20T07:59:33+00:00</updated>
+  <updated>2022-10-20T21:34:17+00:00</updated>
   <media:group>
-   <media:title>Blessings - 20th July 2020</media:title>
+   <media:title>Blessings - 19th July 2020</media:title>
    <media:content url="https://www.youtube.com/v/Cq6rp-K8Nco?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
    <media:thumbnail url="https://i4.ytimg.com/vi/Cq6rp-K8Nco/hqdefault.jpg" width="480" height="360"/>
    <media:description>#Blessings #Church #God #YoutubeShorts #Shorts</media:description>
@@ -99,6 +99,29 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="13"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2LMitPFsEp0</id>
+  <yt:videoId>2LMitPFsEp0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 20th June 2021</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2LMitPFsEp0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-10-20T22:18:49+00:00</published>
+  <updated>2022-10-20T22:19:15+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 20th June 2021</media:title>
+   <media:content url="https://www.youtube.com/v/2LMitPFsEp0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2LMitPFsEp0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#Blessings #Church #God #YoutubeShorts #Shorts #Garden #Foxglove #Digitalis #Relax #mindfulness #takeiteasy #birdsounds</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
    </media:community>
   </media:group>
  </entry>
