@@ -1,4 +1,3 @@
-
 #This is a basic workflow to help you get started with Actions
 #curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" | jq . > output_file.json
 
@@ -21,8 +20,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Download Feed
-      run: |-
-        
+      run: |-        
         #curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o feeds/trinity-urc-youtube-worship-services.rss
         curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ" -o feeds/trinity-urc-youtube-worship-talks-1yearago.rss
         curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrknrFWHg0UytyE8rLG30Lh" -o feeds/trinity-urc-youtube-blessings.rss
