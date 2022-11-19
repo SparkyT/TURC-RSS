@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:MNKNMB9apSk</id>
+  <yt:videoId>MNKNMB9apSk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 14th November 2021 - Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=MNKNMB9apSk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-11-17T10:00:25+00:00</published>
+  <updated>2022-11-17T10:00:25+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 14th November 2021 - Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/MNKNMB9apSk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/MNKNMB9apSk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:VHJ9hY8XIxc</id>
   <yt:videoId>VHJ9hY8XIxc</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -329,29 +352,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="1"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:l73C9bXP3qo</id>
-  <yt:videoId>l73C9bXP3qo</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday, 22nd August 2021 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=l73C9bXP3qo"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2022-08-23T09:00:18+00:00</published>
-  <updated>2022-08-23T09:00:18+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday, 22nd August 2021 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/l73C9bXP3qo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/l73C9bXP3qo/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="3"/>
    </media:community>
   </media:group>
  </entry>
