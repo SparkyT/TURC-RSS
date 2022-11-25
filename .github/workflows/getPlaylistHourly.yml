@@ -24,6 +24,8 @@ jobs:
         #curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrunmSfTCSlS5JRuB4zTgCY" -o feeds/trinity-urc-youtube-worship-services.rss
         curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ" -o feeds/trinity-urc-youtube-worship-talks-1yearago.rss
         curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrknrFWHg0UytyE8rLG30Lh" -o feeds/trinity-urc-youtube-blessings.rss
+        curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azpznniPb4QLDowmPVcm-Xd_" -o feeds/trinity-urc-youtube-organ-voluntaries.rss 
+        curl "https://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt" -o feeds/trinity-urc-youtube-organ-hymns.rss 
         
     - name: Commit and push changes
       run: |-
