@@ -11,6 +11,35 @@
  </author>
  <published>2022-10-17T22:09:56+00:00</published>
  <entry>
+  <id>yt:video:laKPnqb3nNM</id>
+  <yt:videoId>laKPnqb3nNM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 18th December 2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=laKPnqb3nNM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-01-05T21:01:01+00:00</published>
+  <updated>2023-01-05T21:01:32+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 18th December 2022</media:title>
+   <media:content url="https://www.youtube.com/v/laKPnqb3nNM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/laKPnqb3nNM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #AllAreWelcome #Jesus #Blessings #Advent</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:SCvrNXDIOWk</id>
   <yt:videoId>SCvrNXDIOWk</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -408,29 +437,6 @@ Podcasts: https://anchor.fm/trinitycoresend-1year-ago
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="10"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:Cq6rp-K8Nco</id>
-  <yt:videoId>Cq6rp-K8Nco</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Blessings - 19th July 2020</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=Cq6rp-K8Nco"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2022-10-19T08:04:24+00:00</published>
-  <updated>2022-10-20T22:50:44+00:00</updated>
-  <media:group>
-   <media:title>Blessings - 19th July 2020</media:title>
-   <media:content url="https://www.youtube.com/v/Cq6rp-K8Nco?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/Cq6rp-K8Nco/hqdefault.jpg" width="480" height="360"/>
-   <media:description>#Blessings #Church #God #YoutubeShorts #Shorts #Garden #mindfulness #relax #URC #takeiteasy</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="1"/>
    </media:community>
   </media:group>
  </entry>
