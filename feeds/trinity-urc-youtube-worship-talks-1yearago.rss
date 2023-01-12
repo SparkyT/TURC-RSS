@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:Pd2yZRH7jnA</id>
+  <yt:videoId>Pd2yZRH7jnA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 9th January 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Pd2yZRH7jnA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-01-09T10:00:11+00:00</published>
+  <updated>2023-01-09T10:00:12+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 9th January 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/Pd2yZRH7jnA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Pd2yZRH7jnA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:Dz5Khq0CkqQ</id>
   <yt:videoId>Dz5Khq0CkqQ</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -329,29 +352,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="8"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:G8p8O7PYKm4</id>
-  <yt:videoId>G8p8O7PYKm4</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks, Sunday, 14th November 2021 - Act of Remembrance</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=G8p8O7PYKm4"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2022-11-11T11:00:20+00:00</published>
-  <updated>2022-11-11T19:39:52+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks, Sunday, 14th November 2021 - Act of Remembrance</media:title>
-   <media:content url="https://www.youtube.com/v/G8p8O7PYKm4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/G8p8O7PYKm4/hqdefault.jpg" width="480" height="360"/>
-   <media:description>#WeWillRememberThem #Remembrance #Poppy #cenotaph</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="7"/>
    </media:community>
   </media:group>
  </entry>
