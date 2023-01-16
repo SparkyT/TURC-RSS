@@ -386,32 +386,4 @@ Twitter: https://twitter.com/trinity_urc
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:_QQ9cd8Gls4</id>
-  <yt:videoId>_QQ9cd8Gls4</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Blessings - 27th September 2020</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=_QQ9cd8Gls4"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2022-11-11T00:15:02+00:00</published>
-  <updated>2022-11-11T00:25:20+00:00</updated>
-  <media:group>
-   <media:title>Blessings - 27th September 2020</media:title>
-   <media:content url="https://www.youtube.com/v/_QQ9cd8Gls4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/_QQ9cd8Gls4/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Blessings from Trinity United Reformed Church High Wycombe
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-
-#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #Conkers #HorseChestnut #Autumn</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="115"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
