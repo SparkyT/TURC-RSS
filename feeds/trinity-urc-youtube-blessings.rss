@@ -302,33 +302,4 @@ Twitter: https://twitter.com/trinity_urc
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:y42iNXMpMFw</id>
-  <yt:videoId>y42iNXMpMFw</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Blessings - 6th December 2020</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=y42iNXMpMFw"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2022-12-07T13:00:37+00:00</published>
-  <updated>2022-12-07T13:01:10+00:00</updated>
-  <media:group>
-   <media:title>Blessings - 6th December 2020</media:title>
-   <media:content url="https://www.youtube.com/v/y42iNXMpMFw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/y42iNXMpMFw/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Blessings from Trinity United Reformed Church High Wycombe
-
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-
-#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #AllAreWelcome #Jesus #Blessings #Advent</media:description>
-   <media:community>
-    <media:starRating count="1" average="5.00" min="1" max="5"/>
-    <media:statistics views="4"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
