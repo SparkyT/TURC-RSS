@@ -307,33 +307,4 @@ Twitter: https://twitter.com/trinity_urc
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:Q61T9t2Mh-g</id>
-  <yt:videoId>Q61T9t2Mh-g</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Blessings - 3rd January 2021</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=Q61T9t2Mh-g"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-01-03T00:00:12+00:00</published>
-  <updated>2023-01-03T00:00:30+00:00</updated>
-  <media:group>
-   <media:title>Blessings - 3rd January 2021</media:title>
-   <media:content url="https://www.youtube.com/v/Q61T9t2Mh-g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/Q61T9t2Mh-g/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Blessings from Trinity United Reformed Church High Wycombe
-
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-
-#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #AllAreWelcome #Jesus #Blessings #Advent</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="25"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
