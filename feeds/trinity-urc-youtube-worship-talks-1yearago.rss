@@ -1,11 +1,306 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ"/>
+ <id>yt:playlist:PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</id>
+ <yt:playlistId>PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>This week last year 📅🕙👀 - listen again to key parts of our services from 1 year ago</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2020-06-07T21:14:08+00:00</published>
+ <entry>
+  <id>yt:video:PIdvjoL0XQI</id>
+  <yt:videoId>PIdvjoL0XQI</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 3rd April 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=PIdvjoL0XQI"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-04-03T09:00:23+00:00</published>
+  <updated>2023-04-03T09:00:24+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 3rd April 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/PIdvjoL0XQI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PIdvjoL0XQI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AdTGOii1dPc</id>
+  <yt:videoId>AdTGOii1dPc</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 27th March 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AdTGOii1dPc"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-30T18:00:04+00:00</published>
+  <updated>2023-03-30T18:00:04+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 27th March 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/AdTGOii1dPc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AdTGOii1dPc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Listen again to key parts of our services from 1 year ago
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#AllAreWelcome #Church #ListenAgain #WhatDidYouSay #Worship #TheMessage #God #Jesus</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1r0Vj0MRtY4</id>
+  <yt:videoId>1r0Vj0MRtY4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 27th March 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1r0Vj0MRtY4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-27T09:30:01+00:00</published>
+  <updated>2023-03-27T09:30:01+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 27th March 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/1r0Vj0MRtY4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1r0Vj0MRtY4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Listen again to key parts of our services from 1 year ago
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#AllAreWelcome #Church #ListenAgain #WhatDidYouSay #Worship #TheMessage #God #Jesus</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ewaDlnx3R5c</id>
+  <yt:videoId>ewaDlnx3R5c</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 27th March 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ewaDlnx3R5c"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-27T09:00:32+00:00</published>
+  <updated>2023-03-27T09:00:32+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 27th March 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/ewaDlnx3R5c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ewaDlnx3R5c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Listen again to key parts of our services from 1 year ago
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#AllAreWelcome #Church #ListenAgain #WhatDidYouSay #Worship #TheMessage #God #Jesus</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="8"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:P4u6lkYYdXk</id>
+  <yt:videoId>P4u6lkYYdXk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 20th March 2022 led by Revd  Terry Hinks - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=P4u6lkYYdXk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-23T19:00:16+00:00</published>
+  <updated>2023-03-23T19:00:17+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 20th March 2022 led by Revd  Terry Hinks - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/P4u6lkYYdXk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/P4u6lkYYdXk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="8"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:hlow1y28Veg</id>
+  <yt:videoId>hlow1y28Veg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 20th March 2022 led by Revd  Terry Hinks - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hlow1y28Veg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-20T10:00:22+00:00</published>
+  <updated>2023-03-20T10:00:22+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 20th March 2022 led by Revd  Terry Hinks - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/hlow1y28Veg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hlow1y28Veg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:R__BSpdkm0k</id>
+  <yt:videoId>R__BSpdkm0k</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 13th March 2022 led by Steve Burton - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=R__BSpdkm0k"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-16T19:00:17+00:00</published>
+  <updated>2023-03-16T19:00:17+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 13th March 2022 led by Steve Burton - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/R__BSpdkm0k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/R__BSpdkm0k/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="13"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bIjLq0aU_ZU</id>
+  <yt:videoId>bIjLq0aU_ZU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Sunday, 13th March 2022 led by Steve Burton - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bIjLq0aU_ZU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-13T10:00:33+00:00</published>
+  <updated>2023-03-13T10:00:33+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Sunday, 13th March 2022 led by Steve Burton - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/bIjLq0aU_ZU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bIjLq0aU_ZU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>00:00:00 - Music and notices
+
+13:03 - Welcome and lighting of peace candle
+15:18 - Call to worship (1 John 4. 7,9,11)
+Dear friends, let us love one another, because love comes from
+God. God showed his love for us by sending his only Son into the
+world, that we might have life through him. If this is how God
+loved us, then we should love one another.
+
+15:52 - Hymn -  R&amp;S 30 Father we love you,
+
+18:25 - Opening Prayer
+
+20:38 - Introduction: ‘who do you say I am?’
+Welcome as we continue our Lenten journey
+We are beginning to relax some of our restrictions
+Those at home won't see that we have tables out to help share our worship today
+Our theme through Lent is to focus on Jesus and to answer the question he asked his followers - &quot;who do you say I am&quot;
+How would you picture Jesus?
+At the last supper Leonardo Da Vinci (1498), Christ Carrying the Cross byt El Greco (1580), Christ of St John of the Cross Salvador Dali (1951), Light of the World William Holman Hunt (1851), The Last Supper by Stanley Spencer Cookham (1920), The Found Life of Jesus Mafa (1970s), Christ on the Tube
+
+30:53 - Reading Luke Luke 9.18 – 22 
+
+31:55 - 33:20 - Talk and activity: Jesus today
+3 names or descriptions of Jesus (1st Important in the Christian
+faith; 2nd Personal – your favourite description and 3rd a more
+unusual name or description).
+
+42:28 - 42:53 - A Prayer to Jesus
+
+42:55 - Worship songs - MP 375 Jesus, name above all names
+R&amp;S 271 You are the King of Glory
+
+47:23 - Reading: Luke 8. 19 – 21 
+
+47:59 - 52-55 - Talk: being part of the family of Jesus - keep practicing
+Does the reading sound harsh for Jesus' family?
+In a sense he was turning his back on them, challenging the concept of family as a small, exclusive group, moving to a wider family with God
+We draw back from that - blood is thicker than water.
+For some, family is an immensely enriching experience, for others it's the opposite
+Jesus says all of this has to be put in a new perspective - you are part of my family.  Hear my words and put them into practice
+Jesus looks at each one of us and says those who have heard God's word, put them into practice
+Mothering Sunday next week
+Honoring those women who take care of us
+Linking to the whole church family across the world - Hong Kong, Yemen, America, South Africa
+
+53:10 - Activity: making cards to give to members of this church family
+Write their name here and pray for them this week
+
+01:04:21 - Offering and Commitment prayer
+Lord Jesus we offer our gifts and talents
+for your work today
+May your love and truth
+Guide and inspire our lives now and always. Amen.
+
+01:05:23 - Song -  MP 1076 Jesus be the centre
+
+01:07:59 - Prayers for the church and the world using verses of the yymn - TP 56 Kum ba yah, my Lord
+
+01:15:25 - Lord’s Prayer
+
+10:16:05 - Hymn - MP 673 There is a Redeemer
+
+01:18:32 - 01:19:11 - Blessing
+
+01:19:25 - 01:23:33 - Music and notices</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nrTYiel7NHY</id>
+  <yt:videoId>nrTYiel7NHY</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 6th March 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nrTYiel7NHY"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-03-09T19:00:19+00:00</published>
+  <updated>2023-03-09T19:00:19+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 6th March 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/nrTYiel7NHY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nrTYiel7NHY/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
