@@ -340,34 +340,4 @@ Instagram: https://www.instagram.com/trinity_urc/
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:ikjGCY2zXI8</id>
-  <yt:videoId>ikjGCY2zXI8</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Blessings - Carol Service - 25th December 2022</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=ikjGCY2zXI8"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-01-18T12:00:24+00:00</published>
-  <updated>2023-01-18T12:00:52+00:00</updated>
-  <media:group>
-   <media:title>Blessings - Carol Service - 25th December 2022</media:title>
-   <media:content url="https://www.youtube.com/v/ikjGCY2zXI8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/ikjGCY2zXI8/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Blessings from Trinity United Reformed Church High Wycombe
-
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-Instagram: https://www.instagram.com/trinity_urc/
-
-#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #AllAreWelcome #Jesus #Blessings #Advent</media:description>
-   <media:community>
-    <media:starRating count="1" average="5.00" min="1" max="5"/>
-    <media:statistics views="185"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
