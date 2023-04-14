@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:gGx7n0lNuzM</id>
+  <yt:videoId>gGx7n0lNuzM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks, Palm Sunday, 10th April 2022 led by the Amersham Worship Team - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gGx7n0lNuzM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-04-13T18:00:27+00:00</published>
+  <updated>2023-04-13T18:00:27+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks, Palm Sunday, 10th April 2022 led by the Amersham Worship Team - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/gGx7n0lNuzM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gGx7n0lNuzM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:yw2rXk_AL1k</id>
   <yt:videoId>yw2rXk_AL1k</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -212,29 +235,6 @@ Instagram: https://www.instagram.com/trinity_urc/
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="6"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:R__BSpdkm0k</id>
-  <yt:videoId>R__BSpdkm0k</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks, Sunday, 13th March 2022 led by Steve Burton - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=R__BSpdkm0k"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-03-16T19:00:17+00:00</published>
-  <updated>2023-03-16T19:00:17+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks, Sunday, 13th March 2022 led by Steve Burton - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/R__BSpdkm0k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/R__BSpdkm0k/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="14"/>
    </media:community>
   </media:group>
  </entry>
