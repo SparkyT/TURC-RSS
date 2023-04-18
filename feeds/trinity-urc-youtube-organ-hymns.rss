@@ -211,4 +211,36 @@ PRS for Music Church Licence: 953424</media:description>
    </media:community>
   </media:group>
  </entry>
+ <entry>
+  <id>yt:video:45R8QXzXqPA</id>
+  <yt:videoId>45R8QXzXqPA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns &amp; Songs - O God Our Help In Ages Past</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=45R8QXzXqPA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2022-11-26T02:00:02+00:00</published>
+  <updated>2023-02-23T12:42:15+00:00</updated>
+  <media:group>
+   <media:title>Hymns &amp; Songs - O God Our Help In Ages Past</media:title>
+   <media:content url="https://www.youtube.com/v/45R8QXzXqPA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/45R8QXzXqPA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+
+#Organ #SingAlong #Church #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks
+
+
+Trinity URC CCLI no. 36750, streaming license no. 767212</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="27"/>
+   </media:community>
+  </media:group>
+ </entry>
 </feed>
