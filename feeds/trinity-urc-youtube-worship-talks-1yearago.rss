@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:Gdhx0Bgv50s</id>
+  <yt:videoId>Gdhx0Bgv50s</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 24th April 2022 led by Alan Yates - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Gdhx0Bgv50s"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-04-27T18:00:12+00:00</published>
+  <updated>2023-04-27T18:00:12+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 24th April 2022 led by Alan Yates - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/Gdhx0Bgv50s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Gdhx0Bgv50s/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:DjaQ6iuu97w</id>
   <yt:videoId>DjaQ6iuu97w</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -198,36 +221,6 @@ Instagram: https://www.instagram.com/trinity_urc/
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="5"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:1r0Vj0MRtY4</id>
-  <yt:videoId>1r0Vj0MRtY4</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday 27th March 2022 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=1r0Vj0MRtY4"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-03-27T09:30:01+00:00</published>
-  <updated>2023-03-27T09:30:01+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday 27th March 2022 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/1r0Vj0MRtY4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/1r0Vj0MRtY4/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Listen again to key parts of our services from 1 year ago
-
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-Instagram: https://www.instagram.com/trinity_urc/
-
-#AllAreWelcome #Church #ListenAgain #WhatDidYouSay #Worship #TheMessage #God #Jesus</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="2"/>
    </media:community>
   </media:group>
  </entry>
