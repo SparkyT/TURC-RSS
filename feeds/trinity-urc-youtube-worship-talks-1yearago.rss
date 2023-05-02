@@ -194,27 +194,4 @@
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:PIdvjoL0XQI</id>
-  <yt:videoId>PIdvjoL0XQI</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks, Sunday, 3rd April 2022 - Part 1</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=PIdvjoL0XQI"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-04-03T09:00:23+00:00</published>
-  <updated>2023-04-03T09:00:24+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks, Sunday, 3rd April 2022 - Part 1</media:title>
-   <media:content url="https://www.youtube.com/v/PIdvjoL0XQI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/PIdvjoL0XQI/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="4"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
