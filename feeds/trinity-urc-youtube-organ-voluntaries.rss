@@ -412,34 +412,4 @@ Instagram: https://www.instagram.com/trinity_urc/
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:R85nHiBphuY</id>
-  <yt:videoId>R85nHiBphuY</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Organ voluntary - 6th November 2022 - Toccata and Fugue in D minor - J.S. Bach</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=R85nHiBphuY"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-01-27T19:00:18+00:00</published>
-  <updated>2023-04-19T15:55:24+00:00</updated>
-  <media:group>
-   <media:title>Organ voluntary - 6th November 2022 - Toccata and Fugue in D minor - J.S. Bach</media:title>
-   <media:content url="https://www.youtube.com/v/R85nHiBphuY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/R85nHiBphuY/hqdefault.jpg" width="480" height="360"/>
-   <media:description>An organ voluntary from Trinity United Reformed Church High Wycombe with photos taken by our congregation from around the area.
-
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-Instagram: https://www.instagram.com/trinity_urc/
-
-#OrganMusic #Church #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Slugs #Sunset #Monument #Sunflower #FridayFeature #FridayFanfare #JSBach</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="12"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
