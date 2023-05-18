@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:j05qprcbAxo</id>
+  <yt:videoId>j05qprcbAxo</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 15th May 2022   Christian Aid Week - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=j05qprcbAxo"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-05-17T09:00:25+00:00</published>
+  <updated>2023-05-17T09:00:26+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 15th May 2022   Christian Aid Week - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/j05qprcbAxo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/j05qprcbAxo/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:3OY_cQegDpY</id>
   <yt:videoId>3OY_cQegDpY</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -168,29 +191,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="5"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:8WATskM_1Ho</id>
-  <yt:videoId>8WATskM_1Ho</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Easter Sunday Worship Talks - Sunday, 17th April 2022 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=8WATskM_1Ho"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-04-20T18:00:03+00:00</published>
-  <updated>2023-04-20T18:00:03+00:00</updated>
-  <media:group>
-   <media:title>Easter Sunday Worship Talks - Sunday, 17th April 2022 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/8WATskM_1Ho?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/8WATskM_1Ho/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="11"/>
    </media:community>
   </media:group>
  </entry>
