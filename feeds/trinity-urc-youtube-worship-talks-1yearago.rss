@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:C2ol2HZEAlA</id>
+  <yt:videoId>C2ol2HZEAlA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 15th May 2022   Christian Aid Week - Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=C2ol2HZEAlA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-05-18T18:00:10+00:00</published>
+  <updated>2023-05-18T18:00:10+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 15th May 2022   Christian Aid Week - Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/C2ol2HZEAlA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/C2ol2HZEAlA/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:j05qprcbAxo</id>
   <yt:videoId>j05qprcbAxo</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -168,29 +191,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="6"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:DjaQ6iuu97w</id>
-  <yt:videoId>DjaQ6iuu97w</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday, 24th April 2022 led by Alan Yates - Part 1</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=DjaQ6iuu97w"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-04-24T09:00:06+00:00</published>
-  <updated>2023-04-24T09:00:06+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday, 24th April 2022 led by Alan Yates - Part 1</media:title>
-   <media:content url="https://www.youtube.com/v/DjaQ6iuu97w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i1.ytimg.com/vi/DjaQ6iuu97w/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="5"/>
    </media:community>
   </media:group>
  </entry>
