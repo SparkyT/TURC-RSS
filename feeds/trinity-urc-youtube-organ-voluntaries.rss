@@ -420,34 +420,4 @@ Instagram: https://www.instagram.com/trinity_urc/
    </media:community>
   </media:group>
  </entry>
- <entry>
-  <id>yt:video:j774VHsQWt8</id>
-  <yt:videoId>j774VHsQWt8</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Organ voluntary - 5th February 2023</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=j774VHsQWt8"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-02-24T11:00:26+00:00</published>
-  <updated>2023-05-12T13:39:38+00:00</updated>
-  <media:group>
-   <media:title>Organ voluntary - 5th February 2023</media:title>
-   <media:content url="https://www.youtube.com/v/j774VHsQWt8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/j774VHsQWt8/hqdefault.jpg" width="480" height="360"/>
-   <media:description>An organ voluntary from Trinity United Reformed Church High Wycombe with photos taken by our congregation from around the area.
-
-Website: https://www.trinity-urc.org.uk
-Podcasts: https://anchor.fm/trinitycoresend-1year-ago
-Twitter: https://twitter.com/trinity_urc
-Instagram: https://www.instagram.com/trinity_urc/
-
-#OrganMusic #Church #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Slugs #Sunset #Monument #Sunflower #FridayFeature #FridayFanfare #Organist #Landscape #Scenery  #ConnnectToNature</media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="7"/>
-   </media:community>
-  </media:group>
- </entry>
 </feed>
