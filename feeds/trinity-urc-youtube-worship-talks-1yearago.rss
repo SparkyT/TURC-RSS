@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:r0mgSzmVsNk</id>
+  <yt:videoId>r0mgSzmVsNk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks -  Sunday, 3rd July led by Rev Terry Hinks - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=r0mgSzmVsNk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-07-06T18:00:31+00:00</published>
+  <updated>2023-07-06T18:00:31+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks -  Sunday, 3rd July led by Rev Terry Hinks - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/r0mgSzmVsNk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/r0mgSzmVsNk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:yhT_We4uiYw</id>
   <yt:videoId>yhT_We4uiYw</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -214,29 +237,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="5"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:iA6vN9Kek3Y</id>
-  <yt:videoId>iA6vN9Kek3Y</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday, 5th June 2022 - Part 1</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=iA6vN9Kek3Y"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-06-05T09:00:23+00:00</published>
-  <updated>2023-06-16T02:47:59+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday, 5th June 2022 - Part 1</media:title>
-   <media:content url="https://www.youtube.com/v/iA6vN9Kek3Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/iA6vN9Kek3Y/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="9"/>
    </media:community>
   </media:group>
  </entry>
