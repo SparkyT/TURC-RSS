@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:QiKGDmWGVB4</id>
+  <yt:videoId>QiKGDmWGVB4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks -  Sunday, 10th July led by Dr J Prior - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QiKGDmWGVB4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-07-13T18:00:09+00:00</published>
+  <updated>2023-07-13T18:00:09+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks -  Sunday, 10th July led by Dr J Prior - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/QiKGDmWGVB4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QiKGDmWGVB4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:Li38ZX-OSmE</id>
   <yt:videoId>Li38ZX-OSmE</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -211,29 +234,6 @@
    <media:content url="https://www.youtube.com/v/WpPyxAzO6Sg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
    <media:thumbnail url="https://i4.ytimg.com/vi/WpPyxAzO6Sg/hqdefault.jpg" width="480" height="360"/>
    <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="7"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:Bnkl7BAhf78</id>
-  <yt:videoId>Bnkl7BAhf78</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Sunday, 5th June 2022 - Part 2</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=Bnkl7BAhf78"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-06-08T18:00:04+00:00</published>
-  <updated>2023-06-12T19:08:49+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Sunday, 5th June 2022 - Part 2</media:title>
-   <media:content url="https://www.youtube.com/v/Bnkl7BAhf78?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/Bnkl7BAhf78/hqdefault.jpg" width="480" height="360"/>
-   <media:description>Trinity United Reformed Church High Wycombe</media:description>
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="7"/>
