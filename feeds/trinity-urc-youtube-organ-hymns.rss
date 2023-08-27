@@ -1,11 +1,649 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 500 (Server Error)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>500.</b> <ins>That’s an error.</ins>
-  <p>The server encountered an error and could not complete your request.<p>If the problem persists, please <A HREF="http://www.google.com/support/">report</A> your problem and mention this error message and the query that caused it.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt"/>
+ <id>yt:playlist:PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt</id>
+ <yt:playlistId>PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>Hymns on the organ</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2022-11-22T18:45:27+00:00</published>
+ <entry>
+  <id>yt:video:_opesqVh-bo</id>
+  <yt:videoId>_opesqVh-bo</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs -  He is Lord , He is Lord</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_opesqVh-bo"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-08-21T23:00:11+00:00</published>
+  <updated>2023-08-21T23:00:14+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs -  He is Lord , He is Lord</media:title>
+   <media:content url="https://www.youtube.com/v/_opesqVh-bo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_opesqVh-bo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="41"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6OkugUzNYsQ</id>
+  <yt:videoId>6OkugUzNYsQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs -  Gracious Spirit, Holy Spirit</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6OkugUzNYsQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-08-15T09:00:03+00:00</published>
+  <updated>2023-08-15T09:19:38+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs -  Gracious Spirit, Holy Spirit</media:title>
+   <media:content url="https://www.youtube.com/v/6OkugUzNYsQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6OkugUzNYsQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="21"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:eNUQ79bOrI4</id>
+  <yt:videoId>eNUQ79bOrI4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Be Thou My Vision</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=eNUQ79bOrI4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-08-08T09:00:23+00:00</published>
+  <updated>2023-08-08T09:00:27+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Be Thou My Vision</media:title>
+   <media:content url="https://www.youtube.com/v/eNUQ79bOrI4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/eNUQ79bOrI4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="37"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SrdPbHwoGyw</id>
+  <yt:videoId>SrdPbHwoGyw</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - O Breath Of Life</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SrdPbHwoGyw"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-08-01T09:00:17+00:00</published>
+  <updated>2023-08-02T19:10:44+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - O Breath Of Life</media:title>
+   <media:content url="https://www.youtube.com/v/SrdPbHwoGyw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SrdPbHwoGyw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:g6X6Np1T-d8</id>
+  <yt:videoId>g6X6Np1T-d8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - God's Spirit Is In My Heart</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=g6X6Np1T-d8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-07-25T09:00:27+00:00</published>
+  <updated>2023-07-26T19:12:03+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - God's Spirit Is In My Heart</media:title>
+   <media:content url="https://www.youtube.com/v/g6X6Np1T-d8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/g6X6Np1T-d8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="22"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9GSTWFqMVko</id>
+  <yt:videoId>9GSTWFqMVko</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Lord Jesus Christ</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9GSTWFqMVko"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-07-18T09:00:11+00:00</published>
+  <updated>2023-08-23T23:35:50+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Lord Jesus Christ</media:title>
+   <media:content url="https://www.youtube.com/v/9GSTWFqMVko?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9GSTWFqMVko/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1zpOrFgeEcM</id>
+  <yt:videoId>1zpOrFgeEcM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Father I Place Into Your Hands</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1zpOrFgeEcM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-07-11T09:00:01+00:00</published>
+  <updated>2023-07-12T19:07:07+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Father I Place Into Your Hands</media:title>
+   <media:content url="https://www.youtube.com/v/1zpOrFgeEcM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1zpOrFgeEcM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday #AllAreWelcome
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="27"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RGQ07A64aD0</id>
+  <yt:videoId>RGQ07A64aD0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Praise To The Lord, The Almighty</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RGQ07A64aD0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-07-04T09:00:13+00:00</published>
+  <updated>2023-07-05T19:08:49+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Praise To The Lord, The Almighty</media:title>
+   <media:content url="https://www.youtube.com/v/RGQ07A64aD0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RGQ07A64aD0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="40"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yArworGUa3I</id>
+  <yt:videoId>yArworGUa3I</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - For the Beauty Of The Earth</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yArworGUa3I"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-06-27T09:00:38+00:00</published>
+  <updated>2023-07-01T12:29:43+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - For the Beauty Of The Earth</media:title>
+   <media:content url="https://www.youtube.com/v/yArworGUa3I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yArworGUa3I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:usuSW-IwZ7E</id>
+  <yt:videoId>usuSW-IwZ7E</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - All Creatures of Our God and King</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=usuSW-IwZ7E"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-06-20T09:00:37+00:00</published>
+  <updated>2023-06-21T19:14:49+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - All Creatures of Our God and King</media:title>
+   <media:content url="https://www.youtube.com/v/usuSW-IwZ7E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/usuSW-IwZ7E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs #NameThatTune #LoveToSing 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="7"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:549SBuZMTEA</id>
+  <yt:videoId>549SBuZMTEA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Lord, Thy Church on Earth is Seeking</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=549SBuZMTEA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-06-13T09:00:04+00:00</published>
+  <updated>2023-08-25T21:25:51+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Lord, Thy Church on Earth is Seeking</media:title>
+   <media:content url="https://www.youtube.com/v/549SBuZMTEA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/549SBuZMTEA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="51"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:44DNFV_yhF8</id>
+  <yt:videoId>44DNFV_yhF8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Guide Me O Thou Great Jehovah</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=44DNFV_yhF8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-06-06T09:00:02+00:00</published>
+  <updated>2023-06-17T09:08:53+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Guide Me O Thou Great Jehovah</media:title>
+   <media:content url="https://www.youtube.com/v/44DNFV_yhF8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/44DNFV_yhF8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="16"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:S1X4CDGeIS0</id>
+  <yt:videoId>S1X4CDGeIS0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Such Love</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=S1X4CDGeIS0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-05-30T09:00:15+00:00</published>
+  <updated>2023-06-17T06:45:43+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Such Love</media:title>
+   <media:content url="https://www.youtube.com/v/S1X4CDGeIS0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/S1X4CDGeIS0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:CzSHKI-xCAk</id>
+  <yt:videoId>CzSHKI-xCAk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Immortal Invisible, God Only Wise</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=CzSHKI-xCAk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-05-23T09:00:07+00:00</published>
+  <updated>2023-06-11T10:20:54+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Immortal Invisible, God Only Wise</media:title>
+   <media:content url="https://www.youtube.com/v/CzSHKI-xCAk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/CzSHKI-xCAk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ADA-1mF3nTY</id>
+  <yt:videoId>ADA-1mF3nTY</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - I Lift My Eyes</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ADA-1mF3nTY"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-05-16T09:00:09+00:00</published>
+  <updated>2023-06-28T02:07:49+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - I Lift My Eyes</media:title>
+   <media:content url="https://www.youtube.com/v/ADA-1mF3nTY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ADA-1mF3nTY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns played on our historic organ at Trinity United Reformed Church High Wycombe
+
+Join us for worship every Sunday, #AllAreWelcome
+
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+
+#Church #Hymns #Organ #SingAlong #God #Relax #Mindfulness #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #Karaoke #HighWycombe #Bucks #HymnsAndSongs  #Songs 
+
+
+CCLI: 36750
+CCLI Streaming Plus Licence: 133445 
+Church Video Licence: 1294601
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431
+PRS for Music Church Licence: 953424
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="18"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
