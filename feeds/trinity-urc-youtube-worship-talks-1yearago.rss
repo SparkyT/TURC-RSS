@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:slEMopZSqHU</id>
+  <yt:videoId>slEMopZSqHU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks -  Sunday, 4th September 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=slEMopZSqHU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-09-07T18:00:21+00:00</published>
+  <updated>2023-09-07T18:00:22+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks -  Sunday, 4th September 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/slEMopZSqHU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/slEMopZSqHU/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:4DYt_UZhJbE</id>
   <yt:videoId>4DYt_UZhJbE</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -350,29 +373,6 @@ Instagram: https://www.instagram.com/trinity_urc/
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="3"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:eN5D2OOyd1o</id>
-  <yt:videoId>eN5D2OOyd1o</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks -  Sunday, 17th July led by Rev Terry Hinks - Part 1</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=eN5D2OOyd1o"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-07-17T09:00:19+00:00</published>
-  <updated>2023-07-17T09:00:19+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks -  Sunday, 17th July led by Rev Terry Hinks - Part 1</media:title>
-   <media:content url="https://www.youtube.com/v/eN5D2OOyd1o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i2.ytimg.com/vi/eN5D2OOyd1o/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="2"/>
    </media:community>
   </media:group>
  </entry>
