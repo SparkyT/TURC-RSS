@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:tUWc4hlEiag</id>
+  <yt:videoId>tUWc4hlEiag</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 2nd October 2022 - Part 3</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tUWc4hlEiag"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-05T18:00:23+00:00</published>
+  <updated>2023-10-05T18:00:24+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 2nd October 2022 - Part 3</media:title>
+   <media:content url="https://www.youtube.com/v/tUWc4hlEiag?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tUWc4hlEiag/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:PQxCN17WCuU</id>
   <yt:videoId>PQxCN17WCuU</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -329,29 +352,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="0"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:opj1k8sXjug</id>
-  <yt:videoId>opj1k8sXjug</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - 14th August 2022 - Part 1a</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=opj1k8sXjug"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-08-15T09:30:28+00:00</published>
-  <updated>2023-08-15T09:30:28+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - 14th August 2022 - Part 1a</media:title>
-   <media:content url="https://www.youtube.com/v/opj1k8sXjug?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i4.ytimg.com/vi/opj1k8sXjug/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="1"/>
    </media:community>
   </media:group>
  </entry>
