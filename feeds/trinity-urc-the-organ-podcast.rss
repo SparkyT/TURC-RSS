@@ -10,19 +10,18 @@
   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
  </author>
  <published>2022-11-12T15:03:35+00:00</published>
-		<itunes:author>Trinity United Reformed Church, High Wycombe</itunes:author>
-		<itunes:summary>Organ music from Trinity United Reformed Church High Wycombe with photos taken by our congregation.</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>Trinity United Reformed Church, High Wycombe</itunes:name>
-			<itunes:email>trinityurchighwycombe+theorganpodcast@gmail.com</itunes:email>
-		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Religion &amp; Spirituality">
-			<itunes:category text="Christianity"/>
-		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14066101/14066101-1617015244438-83633dbd1f249.jpg"/>
-
+ <itunes:author>Trinity United Reformed Church, High Wycombe</itunes:author>
+ <itunes:summary>Organ music from Trinity United Reformed Church High Wycombe with photos taken by our congregation.</itunes:summary>
+ <itunes:type>episodic</itunes:type>
+ <itunes:owner>
+	<itunes:name>Trinity United Reformed Church, High Wycombe</itunes:name>
+	<itunes:email>trinityurchighwycombe+theorganpodcast@gmail.com</itunes:email>
+ </itunes:owner>
+ <itunes:explicit>No</itunes:explicit>
+ <itunes:category text="Religion &amp; Spirituality">
+	<itunes:category text="Christianity"/>
+ </itunes:category>
+ <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/14066101/14066101-1617015244438-83633dbd1f249.jpg"/>
  <entry>
   <id>yt:video:a16wfpn7Mgw</id>
   <yt:videoId>a16wfpn7Mgw</yt:videoId>
