@@ -1,11 +1,358 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 500 (Server Error)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>500.</b> <ins>That’s an error.</ins>
-  <p>The server encountered an error and could not complete your request.<p>If the problem persists, please <A HREF="http://www.google.com/support/">report</A> your problem and mention this error message and the query that caused it.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ"/>
+ <id>yt:playlist:PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</id>
+ <yt:playlistId>PLrggWHcy3azp4zpJC_P5iLJB_T87DuYnQ</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>This week last year 📅🕙👀 - listen again to key parts of our services from 1 year ago</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2020-06-07T21:14:08+00:00</published>
+ <entry>
+  <id>yt:video:TjelMJJCzlI</id>
+  <yt:videoId>TjelMJJCzlI</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 27th November 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TjelMJJCzlI"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-30T19:30:05+00:00</published>
+  <updated>2023-11-30T19:30:06+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 27th November 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/TjelMJJCzlI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TjelMJJCzlI/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6u_MGEPDTLM</id>
+  <yt:videoId>6u_MGEPDTLM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 27th November 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6u_MGEPDTLM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-27T10:30:02+00:00</published>
+  <updated>2023-11-27T10:30:02+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 27th November 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/6u_MGEPDTLM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6u_MGEPDTLM/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BASdr5gL6m4</id>
+  <yt:videoId>BASdr5gL6m4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 20th November 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BASdr5gL6m4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-23T19:00:04+00:00</published>
+  <updated>2023-11-23T19:00:04+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 20th November 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/BASdr5gL6m4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BASdr5gL6m4/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:PjiS6l57fUs</id>
+  <yt:videoId>PjiS6l57fUs</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 20th November 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=PjiS6l57fUs"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-20T10:00:15+00:00</published>
+  <updated>2023-11-20T10:00:16+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 20th November 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/PjiS6l57fUs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PjiS6l57fUs/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="13"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IMj7S7ZU_w0</id>
+  <yt:videoId>IMj7S7ZU_w0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 13th November 2022 - Remembrance Sunday - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IMj7S7ZU_w0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-16T19:00:08+00:00</published>
+  <updated>2023-11-16T19:00:08+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 13th November 2022 - Remembrance Sunday - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/IMj7S7ZU_w0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IMj7S7ZU_w0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:TiZxbfLirGQ</id>
+  <yt:videoId>TiZxbfLirGQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 13th November 2022 - Remembrance Sunday - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=TiZxbfLirGQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-13T09:00:17+00:00</published>
+  <updated>2023-11-13T09:00:17+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 13th November 2022 - Remembrance Sunday - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/TiZxbfLirGQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/TiZxbfLirGQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZnNSWOGPOuQ</id>
+  <yt:videoId>ZnNSWOGPOuQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 6th November 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZnNSWOGPOuQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-09T19:00:23+00:00</published>
+  <updated>2023-11-09T19:00:23+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 6th November 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/ZnNSWOGPOuQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZnNSWOGPOuQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>#ListenAgain #ThisTimeLastYear #WhatDidWeSay #PlusCaChange</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="20"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EcAJVm8K1rk</id>
+  <yt:videoId>EcAJVm8K1rk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 6th November 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EcAJVm8K1rk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-06T10:00:09+00:00</published>
+  <updated>2023-11-17T03:57:11+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 6th November 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/EcAJVm8K1rk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EcAJVm8K1rk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:OUjgbim-orQ</id>
+  <yt:videoId>OUjgbim-orQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 30th October 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=OUjgbim-orQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-11-02T19:00:11+00:00</published>
+  <updated>2023-11-08T19:48:16+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 30th October 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/OUjgbim-orQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/OUjgbim-orQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:2MfkQU-RGF8</id>
+  <yt:videoId>2MfkQU-RGF8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 30th October 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=2MfkQU-RGF8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-30T10:00:02+00:00</published>
+  <updated>2023-11-22T00:32:15+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 30th October 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/2MfkQU-RGF8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/2MfkQU-RGF8/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:XnNDLPIIHUc</id>
+  <yt:videoId>XnNDLPIIHUc</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=XnNDLPIIHUc"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-26T18:00:23+00:00</published>
+  <updated>2023-11-10T08:49:40+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/XnNDLPIIHUc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/XnNDLPIIHUc/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:VZVoeCbAxIQ</id>
+  <yt:videoId>VZVoeCbAxIQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Reading</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=VZVoeCbAxIQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-23T08:15:01+00:00</published>
+  <updated>2023-11-22T03:17:59+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Reading</media:title>
+   <media:content url="https://www.youtube.com/v/VZVoeCbAxIQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/VZVoeCbAxIQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ih0xnVBO5Ag</id>
+  <yt:videoId>ih0xnVBO5Ag</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ih0xnVBO5Ag"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-23T08:00:30+00:00</published>
+  <updated>2023-11-22T04:30:20+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/ih0xnVBO5Ag?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ih0xnVBO5Ag/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zfdK8WrzJcg</id>
+  <yt:videoId>zfdK8WrzJcg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 16th October 2022 - Part 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zfdK8WrzJcg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-19T18:00:24+00:00</published>
+  <updated>2023-11-25T01:47:14+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 16th October 2022 - Part 2</media:title>
+   <media:content url="https://www.youtube.com/v/zfdK8WrzJcg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zfdK8WrzJcg/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lJY8aq9hzh0</id>
+  <yt:videoId>lJY8aq9hzh0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday, 16th October 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lJY8aq9hzh0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-10-16T09:00:28+00:00</published>
+  <updated>2023-11-22T04:50:24+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday, 16th October 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/lJY8aq9hzh0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lJY8aq9hzh0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>John Hilson reading Psalm 139</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
