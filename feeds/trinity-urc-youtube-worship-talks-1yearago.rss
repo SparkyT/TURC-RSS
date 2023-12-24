@@ -11,6 +11,29 @@
  </author>
  <published>2020-06-07T21:14:08+00:00</published>
  <entry>
+  <id>yt:video:zi9XCUpDva0</id>
+  <yt:videoId>zi9XCUpDva0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Worship Talks - Sunday 18th December 2022 - Part 1</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zi9XCUpDva0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-12-18T10:00:40+00:00</published>
+  <updated>2023-12-18T10:00:40+00:00</updated>
+  <media:group>
+   <media:title>Worship Talks - Sunday 18th December 2022 - Part 1</media:title>
+   <media:content url="https://www.youtube.com/v/zi9XCUpDva0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zi9XCUpDva0/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
   <id>yt:video:m6mj93r2U8Q</id>
   <yt:videoId>m6mj93r2U8Q</yt:videoId>
   <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
@@ -329,29 +352,6 @@
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
     <media:statistics views="3"/>
-   </media:community>
-  </media:group>
- </entry>
- <entry>
-  <id>yt:video:VZVoeCbAxIQ</id>
-  <yt:videoId>VZVoeCbAxIQ</yt:videoId>
-  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
-  <title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Reading</title>
-  <link rel="alternate" href="https://www.youtube.com/watch?v=VZVoeCbAxIQ"/>
-  <author>
-   <name>Trinity High Wycombe and Cores End URCs</name>
-   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
-  </author>
-  <published>2023-10-23T08:15:01+00:00</published>
-  <updated>2023-11-22T03:17:59+00:00</updated>
-  <media:group>
-   <media:title>Worship Talks - Compassion Sunday Guest speaker 23rd Oct - Reading</media:title>
-   <media:content url="https://www.youtube.com/v/VZVoeCbAxIQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-   <media:thumbnail url="https://i3.ytimg.com/vi/VZVoeCbAxIQ/hqdefault.jpg" width="480" height="360"/>
-   <media:description></media:description>
-   <media:community>
-    <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="4"/>
    </media:community>
   </media:group>
  </entry>
