@@ -1,11 +1,658 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?playlist_id=PLrggWHcy3azrknrFWHg0UytyE8rLG30Lh</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azrknrFWHg0UytyE8rLG30Lh"/>
+ <id>yt:playlist:PLrggWHcy3azrknrFWHg0UytyE8rLG30Lh</id>
+ <yt:playlistId>PLrggWHcy3azrknrFWHg0UytyE8rLG30Lh</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>Blessings</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2022-10-17T22:09:56+00:00</published>
+ <entry>
+  <id>yt:video:c9vG0O5tkuU</id>
+  <yt:videoId>c9vG0O5tkuU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 25th February 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=c9vG0O5tkuU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-03-13T12:00:36+00:00</published>
+  <updated>2024-03-13T12:01:00+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 25th February 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/c9vG0O5tkuU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/c9vG0O5tkuU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="21"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yaHBqRlx5vk</id>
+  <yt:videoId>yaHBqRlx5vk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 18th February 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yaHBqRlx5vk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-03-06T12:00:49+00:00</published>
+  <updated>2024-03-06T12:01:22+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 18th February 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/yaHBqRlx5vk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yaHBqRlx5vk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="12"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fWV0-M4XmMo</id>
+  <yt:videoId>fWV0-M4XmMo</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 11th February 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fWV0-M4XmMo"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-02-28T12:00:44+00:00</published>
+  <updated>2024-03-01T23:09:40+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 11th February 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/fWV0-M4XmMo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fWV0-M4XmMo/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="32"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kt8gluHvssY</id>
+  <yt:videoId>kt8gluHvssY</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 4th February 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kt8gluHvssY"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-02-21T12:00:41+00:00</published>
+  <updated>2024-02-24T21:21:48+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 4th February 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/kt8gluHvssY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kt8gluHvssY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="30"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:HJrHSMcYUsA</id>
+  <yt:videoId>HJrHSMcYUsA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 28th January 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=HJrHSMcYUsA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-02-14T12:00:28+00:00</published>
+  <updated>2024-02-28T02:39:34+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 28th January 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/HJrHSMcYUsA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/HJrHSMcYUsA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kdKKI8-wp00</id>
+  <yt:videoId>kdKKI8-wp00</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 21st January 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kdKKI8-wp00"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-02-07T21:16:04+00:00</published>
+  <updated>2024-03-21T18:21:05+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 21st January 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/kdKKI8-wp00?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kdKKI8-wp00/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="25"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rETjuj1Pkvw</id>
+  <yt:videoId>rETjuj1Pkvw</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 14th January 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rETjuj1Pkvw"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-01-31T12:00:44+00:00</published>
+  <updated>2024-03-22T21:45:54+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 14th January 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/rETjuj1Pkvw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rETjuj1Pkvw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:EU0xyAD6y0k</id>
+  <yt:videoId>EU0xyAD6y0k</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - 7th January 2024 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=EU0xyAD6y0k"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-01-24T12:00:20+00:00</published>
+  <updated>2024-02-27T17:47:04+00:00</updated>
+  <media:group>
+   <media:title>Blessings - 7th January 2024 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/EU0xyAD6y0k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/EU0xyAD6y0k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UJCl6---DC4</id>
+  <yt:videoId>UJCl6---DC4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 17th December 2023 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UJCl6---DC4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-01-17T12:00:26+00:00</published>
+  <updated>2024-03-07T01:31:51+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 17th December 2023 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/UJCl6---DC4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UJCl6---DC4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:8jD_Js54BhA</id>
+  <yt:videoId>8jD_Js54BhA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 10th December 2023 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=8jD_Js54BhA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-01-10T12:00:06+00:00</published>
+  <updated>2024-03-15T08:08:47+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 10th December 2023 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/8jD_Js54BhA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/8jD_Js54BhA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="5"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:fLwsxRTHzEA</id>
+  <yt:videoId>fLwsxRTHzEA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 3rd December 2023 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=fLwsxRTHzEA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2024-01-03T12:00:30+00:00</published>
+  <updated>2024-03-09T11:48:17+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 3rd December 2023 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/fLwsxRTHzEA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/fLwsxRTHzEA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="18"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:sinhdfVCUcM</id>
+  <yt:videoId>sinhdfVCUcM</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 26th November 2023 - #AllAreWelcome #ShareWithUs #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sinhdfVCUcM"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-12-27T12:00:44+00:00</published>
+  <updated>2024-03-21T18:07:32+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 26th November 2023 - #AllAreWelcome #ShareWithUs #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/sinhdfVCUcM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sinhdfVCUcM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="78"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:PzNu-a_JtAs</id>
+  <yt:videoId>PzNu-a_JtAs</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 19th November 2023 - #AllAreWelcome #ShareWithUs #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=PzNu-a_JtAs"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-12-20T12:00:21+00:00</published>
+  <updated>2024-03-08T11:16:56+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 19th November 2023 - #AllAreWelcome #ShareWithUs #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/PzNu-a_JtAs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/PzNu-a_JtAs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:buPkwROWn_A</id>
+  <yt:videoId>buPkwROWn_A</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 12th November 2023 - #AllAreWelcome #ShareWithUs #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=buPkwROWn_A"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-12-13T12:00:35+00:00</published>
+  <updated>2024-03-03T14:11:12+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 12th November 2023 - #AllAreWelcome #ShareWithUs #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/buPkwROWn_A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/buPkwROWn_A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="12"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RnQWavM6PGQ</id>
+  <yt:videoId>RnQWavM6PGQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday 5th November 2023 - #AllAreWelcome #ShareWithUs</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RnQWavM6PGQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2023-12-06T12:00:31+00:00</published>
+  <updated>2024-03-13T12:45:32+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday 5th November 2023 - #AllAreWelcome #ShareWithUs</media:title>
+   <media:content url="https://www.youtube.com/v/RnQWavM6PGQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RnQWavM6PGQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
