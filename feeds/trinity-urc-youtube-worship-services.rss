@@ -104,7 +104,7 @@ OneLicense: 741270-A
 #Blessed</media:description>
    <media:community>
     <media:starRating count="1" average="5.00" min="1" max="5"/>
-    <media:statistics views="30"/>
+    <media:statistics views="32"/>
    </media:community>
   </media:group>
  </entry>
@@ -374,7 +374,7 @@ OneLicense: 741270-A
    <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
   </author>
   <published>2025-01-01T11:39:43+00:00</published>
-  <updated>2025-01-28T13:57:12+00:00</updated>
+  <updated>2025-02-16T06:38:59+00:00</updated>
   <media:group>
    <media:title>Morning Worship - 29th December 2024</media:title>
    <media:content url="https://www.youtube.com/v/wMlJVFK_lF8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
@@ -554,7 +554,7 @@ OneLicense: 741270-A
 #Blessed</media:description>
    <media:community>
     <media:starRating count="0" average="0.00" min="1" max="5"/>
-    <media:statistics views="22"/>
+    <media:statistics views="23"/>
    </media:community>
   </media:group>
  </entry>
