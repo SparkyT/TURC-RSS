@@ -1,11 +1,830 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?playlist_id=PLrggWHcy3azpznniPb4QLDowmPVcm-Xd_</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azpznniPb4QLDowmPVcm-Xd_"/>
+ <id>yt:playlist:PLrggWHcy3azpznniPb4QLDowmPVcm-Xd_</id>
+ <yt:playlistId>PLrggWHcy3azpznniPb4QLDowmPVcm-Xd_</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>Organ music from Trinity United Reformed Church High Wycombe</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2022-11-12T15:03:35+00:00</published>
+ <entry>
+  <id>yt:video:hofOPmumvvI</id>
+  <yt:videoId>hofOPmumvvI</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Easter Sunday, 5th April 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=hofOPmumvvI"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-17T11:01:23+00:00</published>
+  <updated>2026-04-17T11:01:35+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Easter Sunday, 5th April 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/hofOPmumvvI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/hofOPmumvvI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe
+#Easter
+#Eggs
+#EasterEggHunt
+#HeIsRisen</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:i4Z0RZ07kpQ</id>
+  <yt:videoId>i4Z0RZ07kpQ</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 29th March 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=i4Z0RZ07kpQ"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-10T12:01:30+00:00</published>
+  <updated>2026-04-10T12:01:41+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 29th March 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/i4Z0RZ07kpQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/i4Z0RZ07kpQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe
+#ParalympicsGB
+#Paralympics
+ @MilanoCortina2026WinterGames  
+#Cortina
+#Milan
+#VisitMilan
+#Italy
+#VisitItaly</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="2"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LORIiUkGw_8</id>
+  <yt:videoId>LORIiUkGw_8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Blessings - Sunday, 29th March 2026 - #AllAreWelcome #EveryWednesday</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/LORIiUkGw_8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-08T12:00:41+00:00</published>
+  <updated>2026-04-13T07:37:17+00:00</updated>
+  <media:group>
+   <media:title>Blessings - Sunday, 29th March 2026 - #AllAreWelcome #EveryWednesday</media:title>
+   <media:content url="https://www.youtube.com/v/LORIiUkGw_8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LORIiUkGw_8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Blessings from Trinity United Reformed Church High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new blessings and other items . 
+- Like our blessings ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#Blessings #Church #God #YoutubeShorts #Shorts #Relax #Mindfulness #TakeItEasy #BirdSounds #Garden #urc #UnitedReformedChurch #reels #TrinityChurch #KnowThatYouAreLoved #Jesus #BlessingsToYou
+#EveryWednesday #WednesdayInspiration
+
+Need inspiration and encouragement to start your week off right? Let our blessing sink deep into your spirit and uplift you through the trials and victories ahead. 👂🔥
+
+#TrinityHighWycombe
+#ParalympicsGB
+#Paralympics
+ @MilanoCortina2026WinterGames  
+#Cortina
+#NinaSparks
+#TeamGB
+#Snowboard
+#Paralympian</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="189"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:R5U0KI6DB5c</id>
+  <yt:videoId>R5U0KI6DB5c</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 22nd March 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=R5U0KI6DB5c"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-03T11:00:00+00:00</published>
+  <updated>2026-04-03T11:00:11+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 22nd March 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/R5U0KI6DB5c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/R5U0KI6DB5c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe
+#ParalympicsGB
+#Paralympics
+ @MilanoCortina2026WinterGames  
+#Cortina
+#NinaSparks
+#TeamGB
+#Snowboard
+#Paralympian</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RE5ZWVk7wak</id>
+  <yt:videoId>RE5ZWVk7wak</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 8th March 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RE5ZWVk7wak"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-27T12:00:42+00:00</published>
+  <updated>2026-03-27T12:00:55+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 8th March 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/RE5ZWVk7wak?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RE5ZWVk7wak/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="35"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RhNJ8lOoCg0</id>
+  <yt:videoId>RhNJ8lOoCg0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 1st March 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RhNJ8lOoCg0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-13T12:00:48+00:00</published>
+  <updated>2026-04-08T16:42:04+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 1st March 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/RhNJ8lOoCg0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RhNJ8lOoCg0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:xJfB7YOKlQ0</id>
+  <yt:videoId>xJfB7YOKlQ0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 22nd February 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=xJfB7YOKlQ0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-06T12:01:44+00:00</published>
+  <updated>2026-04-02T18:08:33+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 22nd February 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/xJfB7YOKlQ0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/xJfB7YOKlQ0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch 
+
+#London #LondonBridges #Southbank #Primrose #Zambia @unitedchurchofzambia6504</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="6"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Wnxo5asnWuU</id>
+  <yt:videoId>Wnxo5asnWuU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 15th February 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Wnxo5asnWuU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-27T12:00:52+00:00</published>
+  <updated>2026-03-25T15:56:03+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 15th February 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/Wnxo5asnWuU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/Wnxo5asnWuU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch 
+#Vienna #DoorKnocker</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Z41bOeknsa0</id>
+  <yt:videoId>Z41bOeknsa0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 8th February 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Z41bOeknsa0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-20T12:00:56+00:00</published>
+  <updated>2026-03-20T15:36:03+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 8th February 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/Z41bOeknsa0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Z41bOeknsa0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch #Roses#Vienna @visitvienna #praguezoo  #Prague</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="18"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:LFPPQpmSvE8</id>
+  <yt:videoId>LFPPQpmSvE8</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 1st February 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=LFPPQpmSvE8"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-13T12:00:40+00:00</published>
+  <updated>2026-03-11T20:34:49+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 1st February 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/LFPPQpmSvE8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/LFPPQpmSvE8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch #Roses#Vienna @visitvienna #praguezoo  #Prague</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZbHyuNfwcSA</id>
+  <yt:videoId>ZbHyuNfwcSA</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 25th January 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZbHyuNfwcSA"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-06T12:01:12+00:00</published>
+  <updated>2026-03-01T15:14:48+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 25th January 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/ZbHyuNfwcSA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZbHyuNfwcSA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch #Roses#Vienna @visitvienna #praguezoo  #Prague</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="10"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ariYkUeKc1I</id>
+  <yt:videoId>ariYkUeKc1I</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 18th January 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ariYkUeKc1I"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-01-30T12:00:07+00:00</published>
+  <updated>2026-02-23T20:44:10+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 18th January 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/ariYkUeKc1I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ariYkUeKc1I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #CafeChurch #Roses#Vienna @visitvienna #praguezoo  #Prague</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="20"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9emaFY9fCtg</id>
+  <yt:videoId>9emaFY9fCtg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 11th January 2026 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9emaFY9fCtg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-01-23T12:00:16+00:00</published>
+  <updated>2026-02-16T18:46:31+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 11th January 2026 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/9emaFY9fCtg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9emaFY9fCtg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #Epiphany, #Epiphany2026, #TheMagi, #WiseMen, #StarOfBethlehem, #Matthew2, #Ephesians3, #MysteryOfChrist, #GentilesAndHeirs, #AllAreWelcome, #InclusiveChurch, #ChurchFamily, #LightOfTheWorld, #AriseShine, #Psalm72, #GraceNotWorks, #StainedGlass, #ChurchArchitecture, #PeaceCandle, #FaithInAction, #ChurchCommunity, #LocalChurch, #BucksChurches, #SundayWorship, #MorningWorship, #ChurchLife, #Fellowship, #WorshipOnline, #UnitedReformedChurch, #GodsGrace, #OneBodyInChrist</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="8"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:r4SrXBmnJlk</id>
+  <yt:videoId>r4SrXBmnJlk</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 4th December 2025 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=r4SrXBmnJlk"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-01-16T12:01:48+00:00</published>
+  <updated>2026-02-08T17:39:41+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 4th December 2025 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/r4SrXBmnJlk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/r4SrXBmnJlk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#TrinityHighWycombe, #CoresEndURC, #HighWycombe, #Epiphany, #Epiphany2026, #TheMagi, #WiseMen, #StarOfBethlehem, #Matthew2, #Ephesians3, #MysteryOfChrist, #GentilesAndHeirs, #AllAreWelcome, #InclusiveChurch, #ChurchFamily, #LightOfTheWorld, #AriseShine, #Psalm72, #GraceNotWorks, #StainedGlass, #ChurchArchitecture, #PeaceCandle, #FaithInAction, #ChurchCommunity, #LocalChurch, #BucksChurches, #SundayWorship, #MorningWorship, #ChurchLife, #Fellowship, #WorshipOnline, #UnitedReformedChurch, #GodsGrace, #OneBodyInChrist</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="7"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:F0xJxQZZDUU</id>
+  <yt:videoId>F0xJxQZZDUU</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Organ music - Sunday, 28th December 2025 - #EveryFriday #AllAreWelcome</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=F0xJxQZZDUU"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-01-09T12:00:29+00:00</published>
+  <updated>2026-02-04T15:43:52+00:00</updated>
+  <media:group>
+   <media:title>Organ music - Sunday, 28th December 2025 - #EveryFriday #AllAreWelcome</media:title>
+   <media:content url="https://www.youtube.com/v/F0xJxQZZDUU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/F0xJxQZZDUU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Organ music from Trinity United Reformed Church, High Wycombe.
+Join us for worship every Sunday #AllAreWelcome
+
+- Subscribe to receive notifications 🔔 when we post new pieces. 
+- Like our concerts ❤️ or leave a comment on your favourite musical moment. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+- Can you name the music or spot where the photos are from? Let us know in the comments
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+#OrganMusic #Church #God #Relax #Mindfulness #OrganRecital #TakeItEasy #urc #UnitedReformedChurch #TrinityChurch #ChurchOrgan #Music #PipeOrgan #PhotoTour #Nature #Photography #Organ #Jesus #Worship  #NameThatTune #WhatsThatSound #Concert #Music #Photos #FreeEntry #NoCharge #Photograph #Photography
+
+#EveryFriday #FridayFeature #FridayFanfare 
+
+Experience majestic organ music from our welcoming sanctuary 🎹 
+Enjoy this series of short concerts featuring our stunning Pipe Organ
+Immerse your spirit in this musical experience as our organists perform some of the best organ music we have.
+Let the music wash over you and relieve the stresses of life. 🎵
+
+#MerryChristmas
+#MerryChristmasYaFithyAnimal
+#TrinityHighWycombe
+#CoresEndURC
+#HighWycombe
+#WooburnGreen
+#BuckinghamshireChurch
+#UnitedReformedChurch
+#TrinityChurch
+#CoresEnd
+#HighWycombeCommunity
+#ChristmasDayService
+#ChristmasMorningWorship
+#ChristmasService
+#ChurchOnline
+#ChristmasPrayer
+#ChristmasCarols
+#ChristmasWorship2025
+#OnlineChurch
+#Emmanuel
+#GodWithUs
+#PrinceOfPeace
+#TheLightOfWorld
+#JoyToTheWorld
+#Incarnation
+#TheNativity
+#ReasonForTheSeason
+#ChristmasHope
+#AllAreWelcome
+#InclusiveChurch
+#ChurchFamily
+#ComeAsYouAre
+#ChristmasTogether
+#LoveThyNeighbour
+#FaithCommunity
+#ChristmasDay
+#Blessed
+#ChurchLife
+#Joy
+#Faith
+#XmasService
+#Christmas2025</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="14"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
