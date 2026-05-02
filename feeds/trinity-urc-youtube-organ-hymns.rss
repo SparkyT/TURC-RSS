@@ -1,11 +1,913 @@
-<!DOCTYPE html>
-<html lang=en>
-  <meta charset=utf-8>
-  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-  <title>Error 404 (Not Found)!!1</title>
-  <style>
-    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
-  </style>
-  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
-  <p><b>404.</b> <ins>That’s an error.</ins>
-  <p>The requested URL <code>/feeds/videos.xml?playlist_id=PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt</code> was not found on this server.  <ins>That’s all we know.</ins>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt"/>
+ <id>yt:playlist:PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt</id>
+ <yt:playlistId>PLrggWHcy3azq0WfAlHIpbXLnvj20VnYCt</yt:playlistId>
+ <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+ <title>Hymns on the organ</title>
+ <author>
+  <name>Trinity High Wycombe and Cores End URCs</name>
+  <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+ </author>
+ <published>2022-11-22T18:45:27+00:00</published>
+ <entry>
+  <id>yt:video:puNwFI8RvEc</id>
+  <yt:videoId>puNwFI8RvEc</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - God of freedom God of justice</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=puNwFI8RvEc"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-27T11:00:00+00:00</published>
+  <updated>2026-05-02T04:36:27+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - God of freedom God of justice</media:title>
+   <media:content url="https://www.youtube.com/v/puNwFI8RvEc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/puNwFI8RvEc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:V-JknnpLs1Y</id>
+  <yt:videoId>V-JknnpLs1Y</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - God is love let heaven adore him</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=V-JknnpLs1Y"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-20T11:00:00+00:00</published>
+  <updated>2026-04-25T15:43:28+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - God is love let heaven adore him</media:title>
+   <media:content url="https://www.youtube.com/v/V-JknnpLs1Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/V-JknnpLs1Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="12"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:dssEvqDEFC0</id>
+  <yt:videoId>dssEvqDEFC0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Lamb of God unblemished</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=dssEvqDEFC0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-13T11:00:00+00:00</published>
+  <updated>2026-04-25T15:48:45+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Lamb of God unblemished</media:title>
+   <media:content url="https://www.youtube.com/v/dssEvqDEFC0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/dssEvqDEFC0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1yAgPyByxN0</id>
+  <yt:videoId>1yAgPyByxN0</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - In Christ there is no east or west</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1yAgPyByxN0"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-04-06T11:00:00+00:00</published>
+  <updated>2026-04-25T15:47:05+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - In Christ there is no east or west</media:title>
+   <media:content url="https://www.youtube.com/v/1yAgPyByxN0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1yAgPyByxN0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="12"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YyiZfRuH06M</id>
+  <yt:videoId>YyiZfRuH06M</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - I heard the voice of Jesus say</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YyiZfRuH06M"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-31T10:00:00+00:00</published>
+  <updated>2026-04-29T22:32:02+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - I heard the voice of Jesus say</media:title>
+   <media:content url="https://www.youtube.com/v/YyiZfRuH06M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YyiZfRuH06M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="1"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:v36-8wKs9h4</id>
+  <yt:videoId>v36-8wKs9h4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Great God your love has called us here</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=v36-8wKs9h4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-24T12:01:39+00:00</published>
+  <updated>2026-04-22T16:50:11+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Great God your love has called us here</media:title>
+   <media:content url="https://www.youtube.com/v/v36-8wKs9h4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/v36-8wKs9h4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="25"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:woJdz2NH8Iw</id>
+  <yt:videoId>woJdz2NH8Iw</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Come living God when least expected</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=woJdz2NH8Iw"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-17T12:01:42+00:00</published>
+  <updated>2026-03-17T12:01:53+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Come living God when least expected</media:title>
+   <media:content url="https://www.youtube.com/v/woJdz2NH8Iw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/woJdz2NH8Iw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="23"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:QuaqM2twFCY</id>
+  <yt:videoId>QuaqM2twFCY</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Forth in thy name O Lord I go</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=QuaqM2twFCY"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-10T12:00:46+00:00</published>
+  <updated>2026-04-21T16:26:47+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Forth in thy name O Lord I go</media:title>
+   <media:content url="https://www.youtube.com/v/QuaqM2twFCY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/QuaqM2twFCY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="14"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ytMu40WC7y4</id>
+  <yt:videoId>ytMu40WC7y4</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - God is Working His Purpose Out</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ytMu40WC7y4"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-03-03T12:01:39+00:00</published>
+  <updated>2026-03-04T16:38:00+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - God is Working His Purpose Out</media:title>
+   <media:content url="https://www.youtube.com/v/ytMu40WC7y4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ytMu40WC7y4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="11"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:3z5-X_IJyxw</id>
+  <yt:videoId>3z5-X_IJyxw</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Let earth and heaven combine</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=3z5-X_IJyxw"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-24T12:00:07+00:00</published>
+  <updated>2026-03-21T17:13:58+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Let earth and heaven combine</media:title>
+   <media:content url="https://www.youtube.com/v/3z5-X_IJyxw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/3z5-X_IJyxw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="13"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GekZwfBJ9Bs</id>
+  <yt:videoId>GekZwfBJ9Bs</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Unto us a boy is born</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GekZwfBJ9Bs"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-17T12:00:33+00:00</published>
+  <updated>2026-04-29T01:16:27+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Unto us a boy is born</media:title>
+   <media:content url="https://www.youtube.com/v/GekZwfBJ9Bs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GekZwfBJ9Bs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="3"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aUmkov_vWkE</id>
+  <yt:videoId>aUmkov_vWkE</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs - Take my life and let it be</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aUmkov_vWkE"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-10T12:00:04+00:00</published>
+  <updated>2026-03-01T15:14:23+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs - Take my life and let it be</media:title>
+   <media:content url="https://www.youtube.com/v/aUmkov_vWkE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aUmkov_vWkE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="34"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:WiYL4_vBOvg</id>
+  <yt:videoId>WiYL4_vBOvg</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs -  O God of Bethel.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WiYL4_vBOvg"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-02-03T12:01:03+00:00</published>
+  <updated>2026-04-13T00:34:06+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs -  O God of Bethel.</media:title>
+   <media:content url="https://www.youtube.com/v/WiYL4_vBOvg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WiYL4_vBOvg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="25"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1_NdcyZu06w</id>
+  <yt:videoId>1_NdcyZu06w</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs -  We are not our own.</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1_NdcyZu06w"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-01-27T12:00:03+00:00</published>
+  <updated>2026-01-27T12:00:20+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs -  We are not our own.</media:title>
+   <media:content url="https://www.youtube.com/v/1_NdcyZu06w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1_NdcyZu06w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="16"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tNR5CPiMags</id>
+  <yt:videoId>tNR5CPiMags</yt:videoId>
+  <yt:channelId>UCOGU0Xl7GgEXwutvo2kRLPg</yt:channelId>
+  <title>Hymns, Carols &amp; Songs -  The King of love my shepherd is</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tNR5CPiMags"/>
+  <author>
+   <name>Trinity High Wycombe and Cores End URCs</name>
+   <uri>https://www.youtube.com/channel/UCOGU0Xl7GgEXwutvo2kRLPg</uri>
+  </author>
+  <published>2026-01-20T12:01:54+00:00</published>
+  <updated>2026-04-30T04:32:56+00:00</updated>
+  <media:group>
+   <media:title>Hymns, Carols &amp; Songs -  The King of love my shepherd is</media:title>
+   <media:content url="https://www.youtube.com/v/tNR5CPiMags?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tNR5CPiMags/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Hymns on our organ from Trinity United Reformed Church, High Wycombe
+
+- Join us for worship every Sunday #AllAreWelcome
+- Subscribe to receive notifications when we post new hymns and other items . 
+- Like our hymns ❤️ or leave a comment sharing what they mean to you. 🙏
+- Share this video with friends and family to spread the light of God's word. 🔄
+
+Where to find us: https://goo.gl/maps/2TCLpBvVymaCcJeM6?coh=178571&amp;entry=tt
+Website: https://www.trinity-urc.org.uk
+Podcasts: https://anchor.fm/trinitycoresend-1year-ago
+Twitter: https://twitter.com/trinity_urc
+Instagram: https://www.instagram.com/trinity_urc/
+YouTube: https://www.youtube.com/@TrinityHighWycombe 
+What's on: https://www.eventbrite.co.uk/o/trinity-and-cores-end-united-reformed-churches-32072022553
+Mastodon: https://mastodon.social/@trinityhighwycombe
+Bluesky: https://bsky.app/profile/trinityhighwycombe.bsky.social
+
+Let the sounds of hymns wash over you and lift your spirit! 🎶
+
+Listen as our organists bring these timeless songs of worship to life each Sunday to accompany our services. 🙏
+As the powerful refrains fill the sanctuary, the soaring notes seem to break open the heavens as we glorify God in music.
+
+Join us and add your voice. Our weekly services are open to all - come feel the awesome presence of the Holy Spirit moving through our music. 🙌
+
+May the beauty of these holy hymns draw you closer to the divine light and fill your days with harmony. ⛪
+
+#EveryTuesday #TuesdayInspiration
+
+#Hymns #Worship #Music #Church #Organ #Choir #Jesus #God #Praise #scripture #faith #religion #christianity #gospelmusic #Singing #ChoralMusic #SacredMusic #Soul #Harmony #Reflection #Soothing #HolyHolyHoly #SoundsOfTheSpirit #ChurchOrgan #Pipes
+
+Church Copyright Licence: 36750 
+Streaming Plus Licence: 133445 
+Music Reproduction Licence: 36750 
+Church Video Licence: 1294601 
+PPL Church Licence: 1824088 
+CLA Church Licence: 953431 
+PRS for Music Church Licence: 953424 
+OneLicense: 741270-A</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="15"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
